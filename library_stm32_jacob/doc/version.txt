@@ -1,0 +1,190 @@
+	            Library_Jacob库函数版本说明 
+=========================================================
+
+编写初衷：
+  学习stm32也有一段时间了，与stm32相关接口的驱动均可以封装
+  为一个个单独的库文件，便于以后的重复使用。
+
+文件说明：src文件夹包含具体函数实现, include包含头文件函数
+          以及相关宏定义声明, sample包含相应库函数调用例程。
+          
+总库文件: 24cxx, ad, delay, dma, exti, i2c, ili9325, i2dg, 
+          sdhc, spi_hardware, standby, stm32flash, sys, 
+          timer, usart, wwdg, xpt2046, key, led. 总共19个库文件。
+       
+初稿
+========
+当前版本：E0.0.1
+作    者：Jacob Peng
+完成日期：2015年5月28日
+
+库函数: 
+	1. 24cxx.c
+* 摘    要: stm32, 24cxx驱动, 支持AT24C01~AT24C256各种型号, 为I2C接口
+* 函    数: AT24CXX_Init() - 初始化I2C接口
+*           AT24CXX_ReadByte() - 在AT24CXX指定地址读出一个字节数据
+*           AT24CXX_WriteByte() - 向AT24CXX指定地址写入一个字节数据
+*           AT24CXX_WriteLenBytes() - 向AT24CXX里面的指定地址开始写入长度为dat_bytes的数据
+*           AT24CXX_ReadLenBytes() - 从AT24CXX里面的指定地址开始读取长度为dat_bytes的数据
+*           AT24CXX_CheckIsFailed() - 检查AT24CXX是否正常
+*           AT24CXX_ReadBuf() - 在AT24CXX里面的指定地址开始读出指定个数的数据
+*           AT24CXX_WriteBuf() - 向AT24CXX指定地址写入指定字节的数据
+*           AT24CXX_WriteAllTheSameData() - 将AT24CXX所有空间写入同一个数据
+*           AT24CXX_Empty() - 清空AT24CXX存储的内容
+  2. ad.c
+* 摘    要: 使用stm32内部12位AD
+* 函    数: ADC1_Init() - 初始化ADC1
+*           ADC_Read() - 读取指定ADC的值
+*           ADC1_Read() - 读取ADC1的值
+  3. delay.c
+* 摘    要: stm32粗略延时函数
+* 函    数: InitDelay() - 初始化系统滴答时钟
+*           DelayUs() - us延时
+*           DelayMs() - ms延时
+  4. dma.c
+* 摘    要: stm32, DMA直接存储器访问, 通过DMA使用USART1
+* 函    数: DMA1_Config() - DMA1的通道配置
+*           DMA_Enable() - 开启一次DMA传输
+*           DMA1_Enable() - 开启一次DMA1传输
+  5. exit.c
+* 摘    要: stm32, exti外部中断
+* 函    数: EXTIMY_Init() - 外部中断初始化
+  6. i2c.c
+* 摘    要: stm32, i2c对应接口与函数声明
+* 函    数: I2C_GPIO_Init() - 初始化I2C对应IO口
+*           I2C_Start() - I2C起始信号
+*           I2C_Stop() - I2C停止信号
+*           I2C_Wait_Ack() - 等待应答信号到来
+*           I2C_Ack() - 产生ACK应答
+*           I2C_NAck() - 不产生ACK应答
+*           I2C_Send_Byte() - 向I2C总线发送一个字节
+*           I2C_Read_Byte() - 从I2C总线读1个字节
+  7.ili9325.c
+* 摘    要: LCD显示屏ILI9325或者ILI9328驱动，这里使用了16位数据模式, 240*320
+* 函    数: ILI9325_GPIO_Init() - ILI9325控制器对应IO口配置
+*           LCD_Init() - LCD初始化
+*           LCD_SetCursor() - 设定光标位置
+*           LCD_SetDisplayWindow() - 设定窗口大小
+*           LCD_Clear() - 填充屏幕为一种颜色
+*           LCD_DisplayOn() - 开启或关闭LCD显示
+*           LCD_ReadPointColor() - 读取指定坐标颜色值
+*           LCD_DrawPoint() - 绘制一个点
+*           LCD_DisplayChar() - 在指定坐标显示一个8x16点阵的ascii字符
+*           GetNumberBits() - 判断数字的有效位数
+*           LCD_DisplayNumber() - 在指定坐标显示数字
+*           LCD_DisplayStringLine() - 在指定座标显示字符串
+*           LCD_DisplayStringMulLines() - 在指定座标显示多行字符串
+*           LCD_DisplayMultipleLines() - 多行显示字符串, 超出屏幕宽度部分会自动换行显示
+*           LCD_DisplaySingleLine() - 显示单行字符串
+*           LCD_ClearSingleLine() - 清除单行内容
+*           LCD_ClearMultipleLines() - 清除多行内容
+*           LCD_DrawBMP() - 在指定坐标范围显示一幅图片
+*           LCD_Test() - 显示彩条, 测试液晶屏是否正常工作
+*           LCD_BGR2RGB() - 将BGR颜色转换成RGB
+*           ILI9325_Write() - ILI9325写指令或数据
+*           ILI9325_WriteCmd() - 向LCD写指令
+*           ILI9325_WriteData() - LCD写数据
+*           LCD_WriteRegister() - 写指定地址寄存器的值
+*           ILI9325_Read() - 读取ILI9325数据线上的数据
+*           ILI9325_ReadData() - 读取LCD数据线上的数据
+*           LCD_ReadRegister() - 读取指定地址寄存器的值
+*           LCD_RGB2Color() - 将RGB颜色转换为16位颜色
+*           LCD_DrawLine() - 根据起止点坐标绘制线段
+*           LCD_DrawHorizontalLine() - 绘制水平线段
+*           LCD_DrawVerticallLine() - 绘制垂直线段
+*           LCD_DrawQuadrangle() - 绘制四边形
+*           LCD_DrawRectangle() - 绘制矩形, 可填充颜色
+*           LCD_DrawSquare() - 绘制正方形, 可填充颜色
+*           LCD_DrawCircle() - 绘制圆, 可填充颜色
+  8. iwdg.c
+* 摘    要: stm32, 独立看门狗
+* 函    数: IWDG_Init() - 初始化独立看门狗
+*           IWDG_Feed() - 独立看门狗喂狗  
+  9. sdhc.c
+* 摘    要: SDHC card操作相关函数, 2~32G, 兼容0~2G SDSC card.
+* 函    数: SD_SPI_ReadWriteCmd() - 通过写入命令, 读取相应返回信息
+*           SD_SPI_SpeedLow() - SD卡初始化的时候, 需要低速
+*           SD_SPI_SpeedHigh() - SD卡正常工作的时候, 可以高速了
+*           SD_SPI_Init() - SD对应IO口初始化
+*           SD_WaitReady() - 等待SD卡准备好
+*           SD_DisSelect() - 取消片选, 释放SPI总线
+*           SD_Select() - 选择SD卡, 等待卡准备完成
+*           SD_GetResponse() - 等待SD卡回应
+*           SD_SendCmd() - 向SD卡发送一个命令
+*           SD_ReadBlock() - 从sd卡读取一个数据包的内容
+*           SD_SendBlock() - 向sd卡写入一个数据块的内容, 512字节
+*           SD_Init() - 初始化SD卡
+*           SD_GetCID() - 获取SD卡的CID信息, 包括制造商信息
+*           SD_GetCSD() - 获取SD卡的CSD信息, 包括容量和速度信息
+*           SD_GetSectorCount() - 获取SD卡的总扇区数
+*           SD_ReadDisk() - 从SD卡指定扇区读取数据
+*           SD_WriteDisk() - 向SD卡指定扇区写入数据
+*           SD_Test() - 测试SD, 读取SD卡指定扇区内容, 通过串口输出
+  10. spi_hardware.c
+* 摘    要: 使用stm32硬件SPI, 配置成主机模式, 访问SD card. 包含硬件SPI相应IO口声明.
+*           硬件SPI接口速度最大18Mbit/s, 实际速度5Mbit/s左右, 模拟SPI速度较慢.
+*           访问flash/sd卡用硬件SPI, 读取屏幕信息使用模拟SPI即可.
+* 函    数: SPI1_Init() - 硬件SPI1初始化
+*           SPI1_SetSpeed() - 硬件SPI速度设置
+*           SPI1_ReadWriteCmd() - 写入命令, 读取返回信息
+  11. standby.c
+* 摘    要: stm32, 低功耗相应操作, 使用待机模式
+* 函    数: Standby_SysEnter() - 系统进入待机模式
+*           Standby_Check() - 检测待机WAKEUP引脚的信号
+*           Standby_Init() - 通过PA0引脚唤醒功能初始化
+  12. stm32_flash.c
+* 摘    要: 掉电存储, 对STM32自带flash的相关操作, STM32内部flash只能写半字(2个字节),
+*           写1个字节会导致stm32内部总线复位
+* 函    数: StmFlash_ReadHalfWord() - 读半字
+*           StmFlash_ReadBuffer() - 从指定地址开始, 读取指定长度的buf数据
+*           StmFlash_WriteBuffer_NoCheck() - 不检查地写入buf数据
+*           StmFlash_WriteBuffer() - 指定地址开始, 写入指定长度的buf数据 
+  13. sys.c
+* 摘    要: stm32, NVIC, RCC配置, 对IO口进行位带操作参考正点原子源代码
+* 函    数: NVIC_Configuration() - NVIC中断设置
+*           RCC_Configuration() - 系统高速外部时钟HSE配置
+  14. timer.c
+* 摘    要: 通用定时器操作
+* 函    数: TIMER3_Init() - 通用定时器3初始化
+  15. usart.c
+* 摘    要: stm32, 串口配置
+* 函    数: USART1_Init() - 初始化串口1
+*           SendUsartByte() - 串口发送字节数据
+*           SendUsartString() - 串口发送字符串数据
+*           USART1_SendByte() - 串口1发送单字节数据
+*           USART1_SendString() - 串口1发送字符串数据   
+  16. wwdg.c
+* 摘    要: 窗口看门狗操作
+* 函    数: WWDG_NVIC_Init() - 窗口看门狗中断初始化
+*           WWDG_Init() - 初始化窗口看门狗
+*           WWDG_Feed() - 窗口看门狗喂狗
+  17. xpt2046.c
+* 摘    要: 2.4寸TFT触摸屏控制器XPT2046驱动, 使用模拟SPI控制
+* 函    数: TOUCH_WriteByte() - 向触摸屏IC写入1个字节的数据, 使用SPI写入
+*           TOUCH_ReadAD() - 从触摸屏IC读取ADC数据, 使用SPI读取
+*           TOUCH_ReadXorY() - 读取x or y坐标值
+*           TOUCH_ReadXandY() - 同时读取x, y坐标的值
+*           TOUCH_ReadXandYTwice() - 连续读取2次触摸屏IC
+*           TOUCH_DrawCalibratePoint() - 绘制校准点
+*           TOUCH_Scan() - 触摸屏是否有点击或按下事件扫描
+*           TOUCH_SaveCalibrateData() - 保存触摸屏校准参数到AT24C02
+*           TOUCH_DisplayCaliInfo() - 显示校准参数
+*           TOUCH_ReadCalibrateData() - 从AT24C02读取触摸屏校准参数
+*           TOUCH_Calibrate() - 校准屏幕, 获取4个校准点的参数, 并保存校准参数
+*           TOUCH_Init() - 触摸屏初始化
+*           TOUCH_Paint() - 2*2点大小绘图
+  18. key.c
+* 摘    要: 按键相应操作
+* 函    数: KEY_Init() - 初始化按键对应IO口
+*           KEY_Scan() - 扫描按键, 通过延时消抖
+*           KEY_Drive() - 驱动按键
+*           KEY_Scan2() - 按键扫描方式2, 通过判断状态标志消抖
+*           KEY_Drive2() - 驱动按键方式2
+  19. led.c
+* 摘    要: stm32, led相应操作
+* 函    数: LED_Init() - 初始化LED相应IO口       
+--------	
+存在bugs：
+  1. xpt2046.c, 校准以后的触摸屏参数不准, 导致绘图偏移很大, 未能解决
+============
+版本说明结尾

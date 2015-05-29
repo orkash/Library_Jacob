@@ -1,0 +1,1636 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"include"
+			],
+			[
+				"defin",
+				"defined"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"use_",
+				"USE_BYTE_CRC"
+			],
+			[
+				"res",
+				"res_len"
+			],
+			[
+				"char",
+				"Char2Hex"
+			],
+			[
+				"hwnd",
+				"hwnd_com"
+			],
+			[
+				"mb_",
+				"MB_ICONERROR"
+			],
+			[
+				"fa",
+				"FALSE"
+			],
+			[
+				"str",
+				"stored_index"
+			],
+			[
+				"pivo",
+				"pivot_index"
+			],
+			[
+				"st",
+				"stored_index"
+			],
+			[
+				"piv",
+				"pivot_value"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"ac",
+				"accel"
+			],
+			[
+				"ret",
+				"result_accel"
+			],
+			[
+				"data",
+				"data_temp"
+			],
+			[
+				"s_da",
+				"s_data_buf"
+			],
+			[
+				"un",
+				"unfiltered_data"
+			],
+			[
+				"sens",
+				"sensor_data_judge_time"
+			],
+			[
+				"sen",
+				"sensor_data_is_changing_flag"
+			],
+			[
+				"UA",
+				"UART_SendByte"
+			],
+			[
+				"dis",
+				"display_buf"
+			],
+			[
+				"disp",
+				"Display10BitsData"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"display",
+				"display_buf"
+			],
+			[
+				"ena",
+				"ENABLE_HEIGHT"
+			],
+			[
+				"ch_we",
+				"CH_WIND_SPEED"
+			],
+			[
+				"ch_",
+				"CH_EXTENT"
+			],
+			[
+				"que",
+				"queue_buffer"
+			],
+			[
+				"df",
+				"define"
+			],
+			[
+				"recv",
+				"recv_data"
+			],
+			[
+				"send",
+				"send_data_buf"
+			],
+			[
+				"Send",
+				"SendDataToPC"
+			],
+			[
+				"sendu",
+				"SendUsartString"
+			],
+			[
+				"fram",
+				"frame_size"
+			],
+			[
+				"fo",
+				"for_cnt"
+			],
+			[
+				"qget",
+				"QGetDataSize"
+			],
+			[
+				"g_",
+				"g_rcv_que"
+			],
+			[
+				"qge",
+				"QGetAt"
+			],
+			[
+				"test",
+				"test_flag"
+			],
+			[
+				"tset",
+				"test_flag"
+			],
+			[
+				"relay",
+				"relay_status"
+			],
+			[
+				"rela",
+				"relay_status"
+			],
+			[
+				"relya",
+				"relay_num"
+			],
+			[
+				"relay_",
+				"relay_num"
+			],
+			[
+				"kre",
+				"kRelayCorrectTable"
+			],
+			[
+				"k",
+				"kRelayErrorTable"
+			],
+			[
+				"relay_stat",
+				"relay_status_buf"
+			],
+			[
+				"RE",
+				"RELAY_STATUS_SAVE_ADDR"
+			],
+			[
+				"to_save_",
+				"to_save_relay_status_buf"
+			],
+			[
+				"to_",
+				"to_save_relay_mode_buf"
+			],
+			[
+				"relay_mo",
+				"relay_mode"
+			],
+			[
+				"stmfl",
+				"StmFlash_ReadBuffer"
+			],
+			[
+				"relay_mode",
+				"relay_mode_buf"
+			],
+			[
+				"readout_",
+				"readout_relay_status_buf"
+			],
+			[
+				"inp",
+				"input_relay_num：对应继电器编号"
+			],
+			[
+				"s_bu",
+				"s_saved_relay_buf"
+			],
+			[
+				"recv_",
+				"recv_cmd"
+			],
+			[
+				"fra",
+				"FRAME_HEADER0"
+			],
+			[
+				"main",
+				"MAIN_H_"
+			],
+			[
+				"wri",
+				"write_data_size"
+			],
+			[
+				"sector",
+				"sector_remain_size"
+			],
+			[
+				"inpu",
+				"input_buf"
+			],
+			[
+				"w",
+				"write_addr"
+			],
+			[
+				"wi",
+				"write_buf"
+			],
+			[
+				"secto",
+				"sector_remain_size"
+			],
+			[
+				"write",
+				"write_buf"
+			],
+			[
+				"stmflash_bu",
+				"g_stmflash_buf"
+			],
+			[
+				"g_n",
+				"g_never_init_gpio_flag_table"
+			],
+			[
+				"rel",
+				"relay_num"
+			],
+			[
+				"cmd",
+				"cmd_write"
+			],
+			[
+				"ch",
+				"CH_RELAY"
+			],
+			[
+				"cnt",
+				"for_cnt"
+			],
+			[
+				"QGet",
+				"QGetDataSize"
+			],
+			[
+				"far",
+				"FRAME_HEADER0"
+			],
+			[
+				"ver",
+				"verified_result"
+			],
+			[
+				"D",
+				"define"
+			],
+			[
+				"g_r",
+				"g_rcv_que"
+			],
+			[
+				"fnt",
+				"for_cnt"
+			],
+			[
+				"g_u",
+				"g_uart_cnt"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"gpio_pin",
+				"GPIO_Pin_0"
+			],
+			[
+				"GPIO",
+				"GPIOB"
+			],
+			[
+				"re",
+				"relay_num"
+			],
+			[
+				"pos",
+				"s_rxd_pos_old"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"usart_rec",
+				"USART_REC_LEN-1"
+			],
+			[
+				"us",
+				"usart_temp"
+			],
+			[
+				"nvicpri",
+				"NVIC_IRQChannelPreemptionPriority"
+			],
+			[
+				"usart1_ir",
+				"USART1_IRQn"
+			],
+			[
+				"gpio_s",
+				"GPIO_Speed_50MHz"
+			],
+			[
+				"usart",
+				"USART1"
+			],
+			[
+				"enabl",
+				"ENABLE"
+			],
+			[
+				"USART",
+				"USART1"
+			],
+			[
+				"USAR1",
+				"USART1"
+			],
+			[
+				"g_led",
+				"g_led_buffer"
+			],
+			[
+				"ti",
+				"TI"
+			],
+			[
+				"rxd",
+				"g_rxd"
+			],
+			[
+				"txd",
+				"g_txd"
+			],
+			[
+				"rec",
+				"g_receive_end_flag"
+			],
+			[
+				"buz",
+				"g_buzzer"
+			],
+			[
+				"mpa",
+				"g_key_code_map"
+			],
+			[
+				"map",
+				"g_key_code_map"
+			],
+			[
+				"time",
+				"g_countdown_time"
+			],
+			[
+				"1s",
+				"g_1s_flag"
+			],
+			[
+				"tl",
+				"g_tl0"
+			],
+			[
+				"Init",
+				"InitNixie"
+			],
+			[
+				"led",
+				"g_led_char"
+			],
+			[
+				"timer",
+				"s_timer"
+			],
+			[
+				"th",
+				"g_th0"
+			],
+			[
+				"traf",
+				"LightTrafficlamp"
+			],
+			[
+				"Ini",
+				"InitTimer1"
+			],
+			[
+				"t1",
+				"g_timer1_th0"
+			],
+			[
+				"tr",
+				"TRUE"
+			],
+			[
+				"timer0th",
+				"g_timer0_high_th0"
+			],
+			[
+				"pwm",
+				"g_pwm"
+			],
+			[
+				"F",
+				"FOSC"
+			],
+			[
+				"low",
+				"g_low_th0"
+			],
+			[
+				"duty",
+				"duty_ratio"
+			],
+			[
+				"integer",
+				"g_integer"
+			],
+			[
+				"10ms",
+				"s_10ms"
+			],
+			[
+				"status",
+				"g_key_up_status"
+			],
+			[
+				"int",
+				"g_integer"
+			],
+			[
+				"gled",
+				"g_led_buffer"
+			],
+			[
+				"stop",
+				"g_stopwatch_refreshed"
+			],
+			[
+				"g",
+				"g_tl0_temp"
+			],
+			[
+				"de",
+				"DelayMs"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/delay.c",
+			"settings":
+			{
+				"buffer_size": 1105,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "/* \n* Copyright (c) 2015, Jacob Peng.\n* All rights reserved. \n* \n* 文件名称: display.h\n* 文件标识: 见配置管理计划书\n* 摘    要: 将数据每一位拆分为ASCII显示\n* 函    数: ConvertDataTo10Bits() - 将数据拆分为6个ASCII格式数据，不足补0\n*           Display10BitsData() - 通过串口显示6个ASCII格式数据, 最高位为符号位\n* \n* 当前版本: E0.0.1\n* 作    者: Jacob Peng\n* 完成日期: 2015年3月2日\n* 更改内容: E0.0.1, 完成拆分为10进制ASCII显示, 2015年3月2日\n* \n* 取代版本: None\n* 原作者  : Unknown\n* 完成日期: Unknown\n*/\n#ifndef DISPLAY_H_\n#define DISPLAY_H_\n\n#ifndef TRUE\n#define TRUE 1\n#define FALSE 0\n#endif  // end of #ifndef\n\n// 是否使用Display10BitsData()函数, \n// 可以消除编译器未使用某一个函数的警告。\n#define ENABLE_DISPLAY TRUE\n\n// 在C51上使用还是Windows上使用\n// USED_IN_C51, USED_IN_WIN\n#define USED_IN_WIN\n\n#if defined(USED_IN_C51)\n#define ENABLE_IN_51 TRUE\n#define ENABLE_IN_WIN FALSE\n#elif defined(USED_IN_WIN)\n#define ENABLE_IN_51 FALSE\n#define ENABLE_IN_WIN TRUE\n#else\n#error \"Neither USED_IN_C51 nor USED_IN_WIN was defined!!\"\n#endif  // #if defined()\n\n// 将数据拆分为6个10位格式显示\nvoid ConvertDataTo10Bits(unsigned char *display_ptr, int displayed_data);\n#if ENABLE_DISPLAY  // 是否使用Display10BitsData()函数\n// 显示10位数据\nvoid Display10BitsData(int displayed_data);\n#endif // #if ENABLE_DISPLAY\n\n#endif  // end of #ifndef DISPLAY_H_\n",
+			"file": "include/display.h",
+			"file_size": 1392,
+			"file_write_time": 130728704562675739,
+			"settings":
+			{
+				"buffer_size": 1178,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "/* \n* Copyright (c) 2015, Jacob Peng.\n* All rights reserved. \n* \n* 文件名称: display.c  \n* 文件标识: 见配置管理计划书\n* 摘    要: 将数据每一位拆分为ASCII显示\n* 函    数: ConvertDataTo10Bits() - 将数据拆分为6个ASCII格式数据，不足补0\n*           Display10BitsData() - 通过串口显示6个ASCII格式数据, 最高位为符号位\n* \n* 当前版本: E0.0.1\n* 作    者: Jacob Peng\n* 完成日期: 2015年3月2日\n* 更改内容: E0.0.1, 完成拆分为10进制ASCII显示, 2015年3月2日\n* \n* 取代版本: None\n* 原作者  : Unknown\n* 完成日期: Unknown\n*/\n#include \"../include/display.h\"\n\n#if ENABLE_IN_51\n#include \"../include/uart.h\"\n#endif // #if ENABLE_IN_51\n\n#if ENABLE_IN_WIN\n#include <stdio.h>\n#endif // #if ENABLE_IN_WIN\n\n/************************************************ \n* 函  数: ConvertDataTo10Bits(unsigned char *, int)\n* 功  能: 将数据拆分为6个ASCII格式数据\n*\n* 参  数: display_ptr - 转换缓冲区\n*         displayed_data - 待转换数据\n*\n* 返回值: 无\n*************************************************/\nvoid ConvertDataTo10Bits(unsigned char *display_ptr, int displayed_data)\n{\n  // 最高位为符号位\n	if (displayed_data < 0)\n	{\n		displayed_data = - displayed_data;  // 将数据转换为正整数\n		*display_ptr = '-'; // ASCII 0x2D\n	} else {\n    *display_ptr = '+';  // ASCII 0x2B\n  } // end of else ().\n  // 数据万位\n	*++display_ptr = displayed_data/10000;\n  // 数据千位\n	displayed_data = displayed_data%10000;  // 取余运算\n	*++display_ptr = displayed_data/1000;\n  // 数据百位\n	displayed_data = displayed_data%1000; // 取余运算\n	*++display_ptr = displayed_data/100;\n  // 数据十位\n	displayed_data = displayed_data%100;  // 取余运算\n	*++display_ptr = displayed_data/10;\n  // 数据个位\n	displayed_data = displayed_data%10; // 取余运算\n	*++display_ptr = displayed_data; 	\n} // end of ConvertDataTo10Bits().\n\n/************************************************ \n* 函  数: Display10BitsData(int)\n* 功  能: 将数据每一位拆分为ASCII显示\n*\n* 参  数: displayed_data - 待显示数据\n*\n* 返回值: 无\n*************************************************/\n#if ENABLE_DISPLAY  // 是否使用Display10BitsData()函数\nvoid Display10BitsData(int displayed_data)\n{  \n  unsigned char display_buf[6] = {0}; // 数据转换缓冲区\n\n	ConvertDataTo10Bits(display_buf, displayed_data);  // 转换数据显示\n  // 6个10位数据, 最高位为符号位\n#if ENABLE_IN_51  \n  UART_SendString(display_buf, 6);\n#endif // #if ENABLE_IN_51\n\n#if ENABLE_IN_WIN\n  for (int i = 0; i < 6; ++i)\n  {\n    printf(\"%d \", display_buf[i]);\n  } // for\n  printf(\"\\n\");\n#endif // #if ENABLE_IN_WIN\n} // end of Display10BitsData().\n#endif  // #if ENABLE_DISPLAY\n",
+			"file": "src/display.c",
+			"file_size": 2618,
+			"file_write_time": 130728693483461739,
+			"settings":
+			{
+				"buffer_size": 2283,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "/* \n* Copyright (c) 2015, Jacob Peng.\n* All rights reserved. \n* \n* 文件名称: filter.c  \n* 文件标识: 见配置管理计划书\n* 摘    要: 常用滤波函数\n* 函    数: AvgFilterInt() - int型数据算术平均值滤波\n*           RecurAvgFilterFloat() - float型数据递推平均滤波\n*           RecurAvgFilterInt() - int型数据递推平均滤波\n*           MedianFilterInt() - int型数据中位值滤波，单通道\n*           MedianFilterMultiChannelInt() - int型数据多通道中位值滤波\n*           FirstOrderLagFilter() - 一阶滞后滤波\n* \n* 当前版本: E0.0.1\n* 作    者: Jacob Peng\n* 完成日期: 2015年3月18日\n* 更改内容: E0.0.1, 完成了以上6个常用滤波函数, 2015年3月18日\n* \n* 取代版本: None\n* 原作者  : Unknown\n* 完成日期: Unknown\n*/\n#include <string.h> // Declare memcpy().\n\n/************************************************ \n* 函  数: AvgFilterInt(int, unsigned int)\n* 功  能: int型数据算术平均值滤波\n*\n* 参  数: unfiltered_data - 待滤波数据, 常用AD值\n*         data_count - 求平均值个数\n*\n* 返回值: 滤波后的平均值, int型\n*************************************************/\n#if ENABLE_AvgFilterInt\nint AvgFilterInt(int unfiltered_data, unsigned int data_count)\n{\n  static unsigned int s_avg_cnt = 0;\n  static int s_ret_avg = 0;  \n  static long int s_sum = 0;\n\n  if (s_avg_cnt < data_count)\n  {\n    s_sum += unfiltered_data;\n    ++s_avg_cnt;\n  } else {\n    s_ret_avg = (int)(s_sum/s_avg_cnt);\n    s_sum = 0;\n    s_avg_cnt = 0;\n  } // else \n\n  return s_ret_avg;\n} // AvgFilterInt()\n#endif // #if ENABLE_AvgFilterInt\n\n/************************************************ \n* 函  数: RecurAvgFilterFloat(float, unsigned int)\n* 功  能: float型数据递推平均滤波, 递推即0 to (n-1), 1 to n,\n*         每次向后推一个, 总共n个数据求平均值\n*\n* 参  数: unfiltered_data - 待滤波数据, 常用AD值\n*         data_count - 求平均值个数\n*\n* 返回值: 滤波后的平均值, float型\n*************************************************/\n#if ENABLE_RecurAvgFilterFloat\nfloat RecurAvgFilterFloat(float unfiltered_data, unsigned int data_count)\n{\n  unsigned int i = 0;\n  double ret_sum = 0;\n  static float s_data_buffer[32] = {0.0};\n\n  if (data_count > 32) return 0;  // 输入参数有误，返回错误。\n  // 等待滤波的数据赋给数组最后一个值\n  s_data_buffer[data_count - 1] = unfiltered_data;  \n  for (i = 0; i < data_count; ++i)\n  {\n    s_data_buffer[i] = s_data_buffer[i + 1];\n    ret_sum += s_data_buffer[i];\n  } // for\n  \n  return (float)(ret_sum/data_count);\n} // RecurAvgFilter()\n#endif // #if ENABLE_RecurAvgFilterFloat\n\n/************************************************ \n* 函  数: RecurAvgFilterInt(int, unsigned int)\n* 功  能: int型数据递推平均滤波, 递推即0 to (n-1), 1 to n,\n*         每次向后推一个, 总共n个数据求平均值\n*\n* 参  数: unfiltered_data - 待滤波数据, 常用AD值\n*         data_count - 求平均值个数\n*\n* 返回值: 滤波后的平均值, int型\n*************************************************/\n#if ENABLE_RecurAvgFilterInt\nint RecurAvgFilterInt(int unfiltered_data, unsigned int data_count)\n{\n  unsigned int i = 0;\n  long int ret_sum = 0;\n  static int s_data_buffer[32] = {0};\n\n  if (data_count > 32) return 0;  // 输入参数有误，返回错误。\n  // 等待滤波的数据赋给数组最后一个值\n  s_data_buffer[data_count - 1] = unfiltered_data;  \n  for (i = 0; i < data_count; ++i)\n  {\n    s_data_buffer[i] = s_data_buffer[i + 1];\n    ret_sum += s_data_buffer[i];\n  } // for\n  \n  return (int)(ret_sum/data_count);\n} // RecurAvgFilter()\n#endif // #if ENABLE_RecurAvgFilterInt\n\n/************************************************ \n* 函  数: MedianFilterInt(const unsigned int [], unsigned int)\n* 功  能: int型数据中位值滤波，单通道, 16个数据\n*\n* 参  数: unfiltered_buf[] - 待滤波数据, 常用AD值\n*         buf_cnt - 中位值滤波个数\n*\n* 返回值: 滤波后的中位值, int型\n*************************************************/\n#if ENABLE_MedianFilterInt\nunsigned int MedianFilterInt(const unsigned int unfiltered_buf[], unsigned int buf_cnt)\n{\n	int i = 0, j = 0, k = 0;\n	unsigned int temp = 0;\n  static unsigned int s_data_buffer[16] = {0};  // 16为待求中位值数据总数\n  \n  if (buf_cnt > 16) return 0;  // 输入参数有误，返回错误。\n  memcpy(s_data_buffer, unfiltered_buf, buf_cnt*sizeof(unsigned int));\n  // 选择排序\n	for (i = 0; i < buf_cnt - 1; ++i)\n	{\n		k = i;\n		for(j = i + 1; j < buf_cnt; ++j)\n		{\n			if(s_data_buffer[k] > s_data_buffer[j])\n      {\n        k = j;\n      }\n		}\n		if(i != k)\n		{\n			temp = s_data_buffer[i];\n			s_data_buffer[i] = s_data_buffer[k];\n			s_data_buffer[k] = temp;\n		}\n	} // end of for ().\n  \n	return s_data_buffer[buf_cnt/2];\n} // end of MedianFilter().\n#endif // #if ENABLE_MedianFilterInt\n\n/************************************************ \n* 函  数: MedianFilterMultiChannelInt(const unsigned int [], \n*                                     unsigned int, \n*                                     unsigned int)\n* 功  能: int型数据多通道中位值滤波, 5通道, 16个数据\n*\n* 参  数: unfiltered_buf[] - 待滤波数据, 常用AD值\n*         channel_index - 通道索引, 0 to 4\n*         buf_cnt - 中位值滤波个数\n*\n* 返回值: 滤波后的中位值, int型\n*************************************************/\n#if ENABLE_MedianFilterMultiChannelInt\nunsigned int MedianFilterMultiChannelInt(const unsigned int unfiltered_buf[], \n                                         unsigned int channel_index, \n                                         unsigned int buf_cnt)\n{\n	int i = 0, j = 0, k = 0;\n	unsigned int temp = 0;\n  static unsigned int s_data_buffer[5][16] = {0}; // 16为待求中位值数据总数\n\n  if (channel_index > 4 || buf_cnt > 16) return 0; // 输入参数有误，返回错误。\n  memcpy(s_data_buffer[channel_index], unfiltered_buf, buf_cnt*sizeof(unsigned int));\n  // 选择排序\n	for(i = 0; i < buf_cnt - 1; ++i)\n	{\n		k = i;\n		for(j = i + 1; j < buf_cnt; ++j)\n		{\n			if(s_data_buffer[channel_index][k] > s_data_buffer[channel_index][j])\n      {\n        k = j;\n      }\n		}\n		if(i != k)\n		{\n			temp = s_data_buffer[channel_index][i];\n			s_data_buffer[channel_index][i] = s_data_buffer[channel_index][k];\n			s_data_buffer[channel_index][k] = temp;\n		}\n	}\n  \n	return s_data_buffer[channel_index][buf_cnt/2];\n} // MedianFilterMultiChannel()\n#endif // #if ENABLE_MedianFilterMultiChannelInt\n\n/************************************************ \n* 函  数: FirstOrderLagFilter(int)\n* 功  能: 一阶滞后滤波:\n*         截止频率，fl = coefficient/2/3.14/t；\n*         t为采样时间间隔，即采样周期，本系统t = 20ms，1/t = 50；\n*         fl = 50*0.2/2/3.14 = 1.6Hz，截止频率为1.6Hz；\n*         对于高于1/2采样频率(这里为25Hz)的干扰信号无法滤除。\n*\n* 参  数: unfiltered_data - 待滤波数据, 常用AD值\n*\n* 返回值: 滤波后的结果, int型\n*************************************************/\n#if ENABLE_FirstOrderLagFilter\nint FirstOrderLagFilter(int unfiltered_data)\n{\n  float coefficient = 0.2;\n  static int s_ret_value = 0;\n\n  s_ret_value = (int)(coefficient*unfiltered_data + (1 - coefficient)*s_ret_value);\n\n  return s_ret_value;\n} // FirstOrderLagFilter()\n#endif // #if ENABLE_FirstOrderLagFilter\n",
+			"file": "src/filter.c",
+			"file_size": 7062,
+			"file_write_time": 130728722187892255,
+			"settings":
+			{
+				"buffer_size": 6262,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "/* \n* Copyright (c) 2015, Jacob Peng.\n* All rights reserved. \n* \n* 文件名称: filter.h \n* 文件标识: 见配置管理计划书\n* 摘    要: 常用滤波函数\n* 函    数: AvgFilterInt() - int型数据算术平均值滤波\n*           RecurAvgFilterFloat() - float型数据递推平均滤波\n*           RecurAvgFilterInt() - int型数据递推平均滤波\n*           MedianFilterInt() - int型数据中位值滤波，单通道\n*           MedianFilterMultiChannelInt() - int型数据多通道中位值滤波\n*           FirstOrderLagFilter() - 一阶滞后滤波\n* \n* 当前版本: E0.0.1\n* 作    者: Jacob Peng\n* 完成日期: 2015年3月18日\n* 更改内容: E0.0.1, 完成了以上6个常用滤波函数, 2015年3月18日\n* \n* 取代版本: None\n* 原作者  : Unknown\n* 完成日期: Unknown\n*/\n#ifndef FILTER_H_\n#define FILTER_H_\n\n#ifndef TRUE\n#define TRUE 1\n#define FALSE 0\n#endif  // end of #ifndef\n\n// 是否使用其中一个滤波函数,\n// 可以消除编译器未使用某一个函数的警告。\n#define ENABLE_AvgFilterInt TRUE\n#define ENABLE_RecurAvgFilterFloat TRUE\n#define ENABLE_RecurAvgFilterInt TRUE\n#define ENABLE_MedianFilterInt TRUE\n#define ENABLE_MedianFilterMultiChannelInt TRUE\n#define ENABLE_FirstOrderLagFilter TRUE\n\n// int型数据算术平均值滤波\n#if ENABLE_AvgFilterInt\nint AvgFilterInt(int unfiltered_data, unsigned int data_count);\n#endif // #if ENABLE_AvgFilterInt\n// float型数据递推平均滤波\n#if ENABLE_RecurAvgFilterFloat\nfloat RecurAvgFilterFloat(float unfiltered_data, unsigned int data_count);\n#endif // #if ENABLE_RecurAvgFilterFloat\n// int型数据递推平均滤波\n#if ENABLE_RecurAvgFilterInt\nint RecurAvgFilterInt(int unfiltered_data, unsigned int data_count);\n#endif // #if ENABLE_RecurAvgFilterInt\n// int型数据中位值滤波，单通道\n#if ENABLE_MedianFilterInt\nunsigned int MedianFilterInt(const unsigned int unfiltered_buf[], \n                             unsigned int buf_cnt);\n#endif // #if ENABLE_MedianFilterInt\n// int型数据多通道中位值滤波\n#if ENABLE_MedianFilterMultiChannelInt\nunsigned int MedianFilterMultiChannelInt(const unsigned int unfiltered_buf[], \n                                         unsigned int channel_index, \n                                         unsigned int buf_cnt);\n#endif // #if ENABLE_MedianFilterMultiChannelInt\n// 一阶滞后滤波\n#if ENABLE_FirstOrderLagFilter\nint FirstOrderLagFilter(int unfiltered_data);\n#endif // #if ENABLE_FirstOrderLagFilter\n\n#endif  // #ifndef FILTER_H_\n",
+			"file": "include/filter.h",
+			"file_size": 2361,
+			"file_write_time": 130728721760760950,
+			"settings":
+			{
+				"buffer_size": 2078,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "/* \n* Copyright (c) 2015, Jacob Peng.\n* All rights reserved. \n* \n* 文件名称: i2c.c  \n* 文件标识: 见配置管理计划书\n* 摘    要: I2C相关函数\n* 函    数: I2C_Start() - I2C起始信号\n*           I2C_Stop() - I2C起始信号\n*           I2C_SendACK() - I2C发送应答信号\n*           I2C_RecvACK() - I2C接收应答信号\n*           I2C_SendByte() - 向I2C总线发送一个字节数据\n*           I2C_RecvByte() - 从I2C总线接收一个字节数据\n*           I2C_WriteByteToSlave() - 向I2C设备写入一个字节数据\n*           I2C_ReadByteFromSlave() - 从I2C设备读取一个字节数据\n* \n* 当前版本: E0.0.1\n* 作    者: Jacob Peng\n* 完成日期: 2015年2月28日\n* 更改内容: E0.0.1, 完成了I2C相关8个函数, 2015年2月28日\n* \n* 取代版本: None\n* 原作者  : Unknown\n* 完成日期: Unknown\n*/\n#include \"../include/i2c.h\"\n\n#include \"../include/delay.h\"\n\n/************************************************ \n* 函  数: I2C_Start(void)\n* 功  能: 发送I2C起始信号\n*\n* 参  数: 无\n*\n* 返回值: 无\n*************************************************/\n#if ENABLE_I2C_Start\nvoid I2C_Start(void) \n{\n  I2C_SCL = 1;  // 确保I2C_SCL, I2C_SDA均为高电平\n  I2C_SDA = 1;\n  DelayUs();\n  I2C_SDA = 0;  // 先拉低I2C_SDA\n  DelayUs();\n  I2C_SCL = 0;  // 再拉低I2C_SCL\n} // end of I2C_Start().\n#endif // #if ENABLE_I2C_Start\n\n/************************************************ \n* 函  数: I2C_Stop(void)\n* 功  能: 发送I2C停止信号\n*\n* 参  数: 无\n*\n* 返回值: 无\n*************************************************/\n#if ENABLE_I2C_Stop\nvoid I2C_Stop(void) \n{\n  I2C_SCL = 0;  // 确保I2C_SCL, I2C_SDA均为低电平\n  I2C_SDA = 0;\n  DelayUs();\n  I2C_SCL = 1;  // 先拉高I2C_SDA\n  DelayUs();\n  I2C_SDA = 1;  // 再拉高I2C_SCL\n  DelayUs();\n} // end of I2C_Stop().\n#endif // #if ENABLE_I2C_Stop\n\n/************************************************ \n* 函  数: I2C_SendACK(bit)\n* 功  能: 发送I2C应答信号\n*\n* 参  数: ack - 应答位\n*\n* 返回值: 无\n*************************************************/\n#if ENABLE_I2C_SendACK\nvoid I2C_SendACK(bit ack)\n{\n  I2C_SDA = ack;  // 写应答信号\n  I2C_SCL = 1;  // 拉高时钟线\n  DelayUs();  // 延时\n  I2C_SCL = 0;  // 拉低时钟线\n  DelayUs();  // 延时\n} // end of I2C_SendACK().\n#endif // #if ENABLE_I2C_SendACK\n\n/************************************************ \n* 函  数: I2C_RecvACK(void)\n* 功  能: 接收I2C应答信号\n*\n* 参  数: ack - 应答位\n*\n* 返回值: I2C应答信号\n*************************************************/\n#if ENABLE_I2C_RecvACK\nbit I2C_RecvACK(void)\n{\n  I2C_SCL = 1;  // 拉高时钟线\n  DelayUs();  // 延时\n  CY = I2C_SDA; // 读应答信号\n  I2C_SCL = 0;  // 拉低时钟线\n  DelayUs();  // 延时\n  return CY;\n} // end of I2C_RecvACK().\n#endif // #if ENABLE_I2C_RecvACK\n\n/************************************************ \n* 函  数: I2C_SendByte(unsigned char)\n* 功  能: 向I2C总线发送一个字节数据\n*\n* 参  数: dat - 待发送字节数据\n*\n* 返回值: 无\n*************************************************/\n#if ENABLE_I2C_SendByte\nvoid I2C_SendByte(unsigned char dat)\n{\n  unsigned char i = 0;\n\n  for (i = 0; i < 8; ++i) //8位计数器\n  {\n    dat <<= 1;  // 移出数据的最高位\n    I2C_SDA = CY; // 送数据口\n    I2C_SCL = 1;  // 拉高时钟线\n    DelayUs();  // 延时\n    I2C_SCL = 0;  // 拉低时钟线\n    DelayUs();  // 延时\n  } // end of for ()\n  I2C_RecvACK();\n} // end of I2C_SendByte().\n#endif // #if ENABLE_I2C_SendByte\n\n/************************************************ \n* 函  数: I2C_RecvByte(void)\n* 功  能: 从I2C总线接收一个字节数据\n*\n* 参  数: 无\n*\n* 返回值: 接收到的字节数据\n*************************************************/\n#if ENABLE_I2C_RecvByte\nunsigned char I2C_RecvByte(void)\n{\n  unsigned char i = 0;\n  unsigned char dat = 0;\n\n  I2C_SDA = 1;  // 使能内部上拉,准备读取数据,\n  for (i = 0; i < 8; ++i) // 8位计数器\n  {\n    dat <<= 1;\n    I2C_SCL = 1;  // 拉高时钟线\n    DelayUs(); // 延时\n    dat |= I2C_SDA; // 读数据               \n    I2C_SCL = 0;  // 拉低时钟线\n    DelayUs();  // 延时\n  } // end of for ()\n\n  return dat;\n} // end of I2C_RecvByte().\n#endif // #if ENABLE_I2C_RecvByte\n\n/************************************************ \n* 函  数: I2C_WriteByteToSlave(unsigned char, unsigned char)\n* 功  能: 向I2C设备写入一个字节数据\n*\n* 参  数: reg_address - I2C设备内部寄存器地址\n*         reg_data - 待写入字节数据\n*\n* 返回值: 无\n*************************************************/\n#if ENABLE_I2C_WriteByteToSlave\nvoid I2C_WriteByteToSlave(unsigned char reg_address, unsigned char reg_data)\n{\n  I2C_Start();  // 起始信号\n  I2C_SendByte(SLAVE_ADDRESS);  // 发送设备地址+写信号\n  I2C_SendByte(reg_address);  // 内部寄存器地址\n  I2C_SendByte(reg_data); // 内部寄存器数据\n  I2C_Stop(); // 发送停止信号\n} // end of I2C_WriteByteToSlave().\n#endif // #if ENABLE_I2C_WriteByteToSlave\n\n/************************************************ \n* 函  数: I2C_ReadByteFromSlave(unsigned char)\n* 功  能: 从I2C设备读取一个字节数据\n*\n* 参  数: reg_address - I2C设备内部寄存器地址\n*\n* 返回值: 读到的字节数据\n*************************************************/\n#if ENABLE_I2C_ReadByteFromSlave\nunsigned char I2C_ReadByteFromSlave(unsigned char reg_address)\n{\n  unsigned char reg_data = 0;\n\n  I2C_Start();  // 起始信号\n  I2C_SendByte(SLAVE_ADDRESS); // 发送设备地址+写信号\n  I2C_SendByte(reg_address);  // 发送存储单元地址，从0开始  \n  I2C_Start();  // 起始信号\n  I2C_SendByte(SLAVE_ADDRESS + 1);  // 发送设备地址+读信号\n  reg_data = I2C_RecvByte();  // 读出寄存器数据\n  I2C_SendACK(1); // 接收应答信号\n  I2C_Stop(); // 停止信号\n\n  return reg_data;\n} // end of I2C_ReadByteFromSlave().\n#endif // #if ENABLE_I2C_ReadByteFromSlave\n",
+			"file": "src/i2c.c",
+			"file_size": 5624,
+			"file_write_time": 130728727080364006,
+			"settings":
+			{
+				"buffer_size": 4868,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "/* \n* Copyright (c) 2015, Jacob Peng.\n* All rights reserved. \n* \n* 文件名称: mpu6050.c  \n* 文件标识: 见配置管理计划书\n* 摘    要: MPU6050三轴陀螺仪相关函数的实现\n* 函    数: MPU6050_Init() - 初始化MPU6050\n*           MPU6050_GetData() - 合成从mpu6050内部寄存器读取到的数据\n*           MPU6050_CalcResult() - 计算实际加速度、角速度、温度结果\n* \n* 当前版本: E0.0.1\n* 作    者: Jacob Peng\n* 完成日期: 2015年3月2日\n* 更改内容: E0.0.1, 完成了I2C相关8个函数, 2015年3月2日\n* \n* 取代版本: None\n* 原作者  : Unknown\n* 完成日期: Unknown\n*/\n#include \"../include/mpu6050.h\"\n\n#include \"../include/i2c.h\"\n\n/************************************************ \n* 函  数: MPU6050_Init(void)\n* 功  能: 初始化MPU6050\n*\n* 参  数: 无\n*\n* 返回值: 无\n*************************************************/\nvoid MPU6050_Init(void)\n{\n	I2C_WriteByteToSlave(PWR_MGMT, 0x00);	// 解除休眠状态\n	I2C_WriteByteToSlave(SMPLRT_DIV, 0x07);\n	I2C_WriteByteToSlave(CONFIG, 0x06);\n	I2C_WriteByteToSlave(GYRO_CONFIG, 0x18);\n	I2C_WriteByteToSlave(ACCEL_CONFIG, 0x01);\n} // end of MPU6050_Init().\n\n/************************************************ \n* 函  数: MPU6050_GetData(unsigned char)\n* 功  能: 合成从mpu6050内部寄存器读取到的数据\n*\n* 参  数: reg_address - mpu6050内部寄存器地址\n*\n* 返回值: 合成以后的数据, int型\n*************************************************/\nint MPU6050_GetData(unsigned char reg_address)\n{\n	unsigned char high_8bits = 0, low_8bits = 0;\n  \n	high_8bits = I2C_ReadByteFromSlave(reg_address);\n	low_8bits = I2C_ReadByteFromSlave(reg_address + 1);\n  \n	return (high_8bits << 8) + low_8bits; // 合成数据\n} // end of MPU6050_GetData().\n\n/************************************************ \n* 函  数: MPU6050_CalcResult(int, unsigned char)\n* 功  能: 计算实际加速度、角速度、温度结果\n*\n* 参  数: input_data - mpu6050原始数据\n*         channel - 计算通道, 0: 加速度, 1: 角速度, 2: 温度\n*\n* 返回值: 计算完成以后的实际结果, float型\n*************************************************/\n#if ENABLE_MPU6050_CalcResult\n\nfloat MPU6050_CalcResult(int input_data, unsigned char channel)\n{\n  /* 计算公式\n  // 加速度计算\n  读出加速度数据/32768.0*16g(g为重力加速度，可取9.8m/s2)\n  // 角速度计算\n  读出角速度数据/32768.0*2000(°/s)\n  // 角度计算\n  读出角度数据/32768.0*180(°)\n  // 温度计算\n  读出温度数据/340.0+36.25℃\n  */     \n  float result = 0.0;\n  \n  if (channel != 0 && channel != 1 && channel != 2) return -1;  // 通道不合法\n  switch (channel)\n  {\n    case ACCEL_CHANNEL: { // 利用加速度计算角度\n      result = (input_data - MPU6050_ZERO_ACCELL)/16384.0;\n      // result = result*180.0/PI/0.92; // 弧度转换为度，角度较小时，可这样近似计算\n      result = asin(result)*180.0/PI; // 反正弦函数计算出弧度，然后转换为度\n      break;\n    } // case\n    case GYRO_CHANNEL: { // 角速度\n      // 去除零点偏移，计算角速度值，负号为方向处理  \n      result = -(input_data - MPU6050_ZERO_GYRO)/16.4;    \n      break;\n    } // case\n    case TEMP_CHANNEL: { // 温度\n      result = input_data/340.0+36.25;\n      break;\n    } // case\n    default: {\n      break;\n    } // default\n  } // end of switch ().\n  \n  return result;\n} // end of MPU6050_CalcResult().\n\n#endif // #if ENABLE_MPU6050_CalcResult\n",
+			"file": "src/mpu6050.c",
+			"file_size": 3250,
+			"file_write_time": 130766501377475112,
+			"settings":
+			{
+				"buffer_size": 2783,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "/* \n* Copyright (c) 2015, Jacob Peng.\n* All rights reserved. \n* \n* 文件名称: i2c.h\n* 文件标识: 见配置管理计划书\n* 摘    要: I2C相关函数\n* 函    数: I2C_Start() - I2C起始信号\n*           I2C_Stop() - I2C起始信号\n*           I2C_SendACK() - I2C发送应答信号\n*           I2C_RecvACK() - I2C接收应答信号\n*           I2C_SendByte() - 向I2C总线发送一个字节数据\n*           I2C_RecvByte() - 从I2C总线接收一个字节数据\n*           I2C_WriteByteToSlave() - 向I2C设备写入一个字节数据\n*           I2C_ReadByteFromSlave() - 从I2C设备读取一个字节数据\n* \n* 当前版本: E0.0.1\n* 作    者: Jacob Peng\n* 完成日期: 2015年2月28日\n* 更改内容: E0.0.1, 完成了I2C相关8个函数, 2015年2月28日\n* \n* 取代版本: None\n* 原作者  : Unknown\n* 完成日期: Unknown\n*/\n\n#ifndef I2C_H_\n#define I2C_H_\n\n#include <reg51.h>\n\n#ifndef TRUE\n#define TRUE 1\n#define FALSE 0\n#endif  // end of #ifndef\n\n// 是否使用其中一个I2C函数,\n// 可以消除编译器未使用某一个函数的警告。\n#define ENABLE_I2C_Start TRUE\n#define ENABLE_I2C_Stop TRUE\n#define ENABLE_I2C_SendACK TRUE\n#define ENABLE_I2C_RecvACK TRUE\n#define ENABLE_I2C_SendByte TRUE\n#define ENABLE_I2C_RecvByte TRUE\n#define ENABLE_I2C_WriteByteToSlave TRUE\n#define ENABLE_I2C_ReadByteFromSlave TRUE\n\n#define SLAVE_ADDRESS 0xD0  // IIC写入时的地址，+1为读取\n\nsbit I2C_SDA = P3^4;  // IIC数据引脚定义\nsbit I2C_SCL = P3^5;  // IIC时钟引脚定义\n\n// I2C起始信号\n#if ENABLE_I2C_Start\nstatic void I2C_Start(void);\n#endif // #if ENABLE_I2C_Start\n// I2C停止信号\n#if ENABLE_I2C_Stop\nstatic void I2C_Stop(void);\n#endif // #if ENABLE_I2C_Stop\n// I2C发送应答信号\n#if ENABLE_I2C_SendACK\nstatic void I2C_SendACK(bit ack);\n#endif // #if ENABLE_I2C_SendACK\n// I2C接收应答信号\n#if ENABLE_I2C_RecvACK\nstatic bit I2C_RecvACK(void);\n#endif // #if ENABLE_I2C_RecvACK\n// 向I2C总线发送一个字节数据\n#if ENABLE_I2C_SendByte\nvoid I2C_SendByte(unsigned char dat);\n#endif // #if ENABLE_I2C_SendByte\n// 从I2C总线接收一个字节数据\n#if ENABLE_I2C_RecvByte\nunsigned char I2C_RecvByte(void);\n#endif // #if ENABLE_I2C_RecvByte\n// 向I2C设备写入一个字节数据\n#if ENABLE_I2C_WriteByteToSlave\nvoid I2C_WriteByteToSlave(unsigned char reg_address, unsigned char reg_data);\n#endif // #if ENABLE_I2C_WriteByteToSlave\n// 从I2C设备读取一个字节数据\n#if ENABLE_I2C_ReadByteFromSlave\nunsigned char I2C_ReadByteFromSlave(unsigned char reg_address);\n#endif // #if ENABLE_I2C_ReadByteFromSlave\n\n#endif  // end of #ifndef I2C_H_\n",
+			"file": "include/i2c.h",
+			"file_size": 2452,
+			"file_write_time": 130728725248960343,
+			"settings":
+			{
+				"buffer_size": 2124,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "/* \n* Copyright (c) 2015, Jacob Peng.\n* All rights reserved. \n* \n* 文件名称: mpu6050.h \n* 文件标识: 见配置管理计划书\n* 摘    要: MPU6050三轴陀螺仪相关函数的实现\n* 函    数: MPU6050_Init() - 初始化MPU6050\n*           MPU6050_GetData() - 合成从mpu6050内部寄存器读取到的数据\n*           MPU6050_CalcResult() - 计算实际加速度、角速度、温度结果\n* \n* 当前版本: E0.0.1\n* 作    者: Jacob Peng\n* 完成日期: 2015年3月2日\n* 更改内容: E0.0.1, 完成了I2C相关8个函数, 2015年3月2日\n* \n* 取代版本: None\n* 原作者  : Unknown\n* 完成日期: Unknown\n*/\n#ifndef MPU6050_H_\n#define MPU6050_H_\n\n#ifndef TRUE\n#define TRUE 1\n#define FALSE 0\n#endif  // end of #ifndef\n\n// 是否使用MPU6050_CalcResult()函数,\n// 可以消除编译器未使用某一个函数的警告。\n#define ENABLE_MPU6050_CalcResult TRUE\n\n/* 定义MPU6050内部地址 */\n// 陀螺仪采样率，典型值：0x07(125Hz)\n#define SMPLRT_DIV 0x19 \n// 低通滤波频率，典型值：0x06(5Hz)\n#define CONFIG 0x1A \n// 陀螺仪自检及测量范围，典型值：0x18(不自检，2000deg/s)\n#define GYRO_CONFIG 0x1B  \n// 加速计自检、测量范围及高通滤波频率，典型值：0x01(不自检，2G，5Hz)\n#define ACCEL_CONFIG 0x1C \n// 加速度输出地址\n#define ACCEL_XOUT_ADDR_H 0x3B\n#define ACCEL_XOUT_ADDR_L 0x3C\n#define ACCEL_YOUT_ADDR_H 0x3D\n#define ACCEL_YOUT_ADDR_L 0x3E\n#define ACCEL_ZOUT_ADDR_H 0x3F\n#define ACCEL_ZOUT_ADDR_L 0x40\n// 角速度输出地址\n#define GYRO_XOUT_ADDR_H 0x43\n#define GYRO_XOUT_ADDR_L 0x44 \n#define GYRO_YOUT_ADDR_H 0x45\n#define GYRO_YOUT_ADDR_L 0x46\n#define GYRO_ZOUT_ADDR_H 0x47\n#define GYRO_ZOUT_ADDR_L 0x48\n// 温度输出地址\n#define TEMP_OUT_ADDR_H 0x41\n#define TEMP_OUT_ADDR_L 0x42\n// 其他寄存器\n#define PWR_MGMT 0x6B // 电源管理，典型值：0x00(正常启用)\n// 加速度、角速度输出\n#define ACCEL_XOUT MPU6050_GetData(ACCEL_XOUT_ADDR_H)\n#define ACCEL_YOUT MPU6050_GetData(ACCEL_YOUT_ADDR_H)\n#define ACCEL_ZOUT MPU6050_GetData(ACCEL_ZOUT_ADDR_H)\n#define GYRO_XOUT MPU6050_GetData(GYRO_XOUT_ADDR_H)\n#define GYRO_YOUT MPU6050_GetData(GYRO_YOUT_ADDR_H)\n#define GYRO_ZOUT MPU6050_GetData(GYRO_ZOUT_ADDR_H)\n// 温度输出\n#define TEMP_OUT MPU6050_GetData(TEMP_OUT_ADDR_H)\n// 计算实际结果通道\n#define ACCEL_CHANNEL (0)\n#define GYRO_CHANNEL (1)\n#define TEMP_CHANNEL (2)\n// MPU6050的零点校准值\n#define MPU6050_ZERO_ACCELL (-465.522)\n#define MPU6050_ZERO_GYRO (-58.8427)\n\n// 初始化MPU6050\nvoid MPU6050_Init(void);\n// 合成数据\nint MPU6050_GetData(unsigned char reg_address);\n// 计算实际加速度、角速度、温度结果\n#if ENABLE_MPU6050_CalcResult\nfloat MPU6050_CalcResult(int input_data, unsigned char channel);\n#endif // #if ENABLE_MPU6050_CalcResult\n\n#endif // end of #ifndef MPU6050_H_\n",
+			"file": "include/mpu6050.h",
+			"file_size": 2625,
+			"file_write_time": 130728728008521001,
+			"settings":
+			{
+				"buffer_size": 2247,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "/* \n* Copyright (c) 2015, Jacob Peng.\n* All rights reserved. \n* \n* 文件名称: sort.h \n* 文件标识: 见配置管理计划书\n* 摘    要: 常见排序算法实现\n* 函    数: SwapFloat() - 交换两个元素, float型\n*           BubbleSortFloat() - 冒泡排序, float型\n*           SelectSortFloat() - 选择排序, float型\n*           InsertSortFloat() - 插入排序, float型\n*           QuickSortFloat() - 快速排序, float型\n* \n* 当前版本: E0.0.1\n* 作    者: Jacob Peng\n* 完成日期: 2015年3月26日\n* 更改内容: E0.0.1, 完成了I2C相关8个函数, 2015年3月26日\n* \n* 取代版本: None\n* 原作者  : Unknown\n* 完成日期: Unknown\n*/\n#ifndef SORT_H_\n#define SORT_H_\n\n// 选择升序、降序\n// #define ASCENDING_ORDER  // 升序\n#define DECREASING_ORDER // 降序\n\n// 交换两个元素, float型\nstatic void SwapFloat(float *a, float *b);\n// 冒泡排序, float型\nvoid BubbleSortFloat(float arr[], unsigned int len);\n// 选择排序, float型\nvoid SelectSortFloat(float arr[], unsigned int len);\n// 插入排序, float型\nvoid InsertSortFloat(float arr[], unsigned int len);\n// 快速排序, float型\nvoid QuickSortFloat(float arr[], unsigned int len);\n\n#endif  // #ifndef SORT_H_\n",
+			"file": "include/sort.h",
+			"file_size": 1133,
+			"file_write_time": 130728584122036396,
+			"settings":
+			{
+				"buffer_size": 960,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "/* \n* Copyright (c) 2015, Jacob Peng.\n* All rights reserved. \n* \n* 文件名称: stc12_eeprom.h  \n* 文件标识: 见配置管理计划书\n* 摘    要: 使用STC12系列片内自带eeprom相关函数的实现，参考stc官方手册\n* 函    数: IdleIap() - Disable ISP/IAP/EEPROM function\n*           ReadByteIap() - Read one byte from ISP/IAP/EEPROM area\n*           ProgramByteIap() - Program one byte to ISP/IAP/EEPROM area\n*           EraseSectorIap() - Erase one sector area\n* \n* 当前版本: E0.0.1\n* 作    者: Jacob Peng\n* 完成日期: 2015年3月2日\n* 更改内容: E0.0.1, 完成了stc12 eeprom的读、写, 2015年3月2日\n* \n* 取代版本: None\n* 原作者  : Unknown\n* 完成日期: Unknown\n*/\n#ifndef STC12_EEPROM_H_\n#define STC12_EEPROM_H_\n\n// Disable ISP/IAP/EEPROM function.\nvoid IdleIap();\n// Read one byte from ISP/IAP/EEPROM area.\nunsigned char ReadByteIap(unsigned int addr);\n// Program one byte to ISP/IAP/EEPROM area.\nvoid ProgramByteIap(unsigned int addr, unsigned char dat);\n// Erase all data of a selected sector area.\nvoid EraseSectorIap(unsigned int addr);\n\n#endif  // end of STC12_EEPROM_H_",
+			"file": "include/stc12_eeprom.h",
+			"file_size": 1080,
+			"file_write_time": 130728588906781400,
+			"settings":
+			{
+				"buffer_size": 967,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "/**********************************************************************\n * Filename: \"crc.c\".\n * Description: Slow and fast implementations of the CRC standards.\n * Inclusion: CheckCrcSlowly(), CheckCrcFaster().\n *\n * Reversion: A0.1\n * Author:    Jacob Peng \n * Date:      31 October 2014  \n * Changed content:      \n *\n * Version: \n * Author:   \n * Date:    \n *\n * Reference:  * [1] Barr, Michael. CRC Implementation Code in C[C]. Embedded\n *     Systems Programming. January 2000, pp. 37-46. Site:\n *     http://www.barrgroup.com/Embedded-Systems/How-To/CRC-Calculation-C-Code.\n * [2] Ross N. Williams. A painless guide to crc error detection algorithms[C].\n *     http://www.repairfaq.org/filipg/LINK/F_crc_v31.html. 19 August 1993.\n * \n * Notes: The parameters for each supported CRC standard are\n *        defined in the header file \"crc.h\".  The implementations\n *        here should stand up to further additions to that list.\n *        Code style refers to \"Google C++ Style Guide\".\n **********************************************************************/\n\n#include \"../include/crc.h\"\n\n#include <string.h> // Declare memset().\n\n// Derive parameters from the standard-specific parameters in \"crc.h\".\n#define CRC_WIDTH (8 * sizeof(Crc))\n#define TOPBIT (1 << (CRC_WIDTH - 1))\n\n#if (TRUE == REFLECT_DATA)\n#undef REFLECT_DATA\n#define REFLECT_DATA(X) ((unsigned char) ReflectData((X), 8))\n#else\n#undef REFLECT_DATA\n#define REFLECT_DATA(X) (X)\n#endif\n\n#if (TRUE == REFLECT_REMAINDER)\n#undef REFLECT_REMAINDER\n#define REFLECT_REMAINDER(X) ((Crc) ReflectData((X), CRC_WIDTH))\n#else \n#undef REFLECT_REMAINDER\n#define REFLECT_REMAINDER(X) (X)\n#endif\n\n/*********************************************************************\n * Function: ReflectData(), it's accessible only from this file.\n * Description: Reorder the bits of a binary sequence, by reflecting\n *              them about the middle position.\n * Notes: No checking is done that nBits <= 32.\n * Returns: The reflection of the original data.\n *********************************************************************/\nstatic unsigned long ReflectData(unsigned long data0, unsigned char data0_bits) {\n  unsigned long reflection = 0x00000000;\n  unsigned char bit = 0;\n  // Reflect the data about the center bit.\n  for (bit = 0; bit < data0_bits; ++bit) {\n    // If the LSB bit is set, set the reflection of it.\n    if (data0 & 0x01) {\n      reflection |= (1 << ((data0_bits - 1) - bit));\n    }\n    data0 >>= 1;  // Reflect the next bit.\n  }\n\n  return reflection;\n} // ReflectData()\n\n/*********************************************************************\n * Function: CheckCrcSlowly().\n * Description: Compute the CRC of a given message bit by bit.\n * Notes: Used only for \"CRC-8\" because it's inefficient.\n * Returns: The CRC of the message.\n *********************************************************************/\n#if ENABLE_BIT_CRC // 是否调用: CheckCrcSlowly()\nCrc CheckCrcSlowly(const unsigned char message[], unsigned int message_bytes) {\n  Crc remainder = INITIAL_REMAINDER;\n  unsigned int byte = 0;\n  unsigned char bit = 0;  // The number of unchecked bit.\n\n  // Perform modulo-2 division, a byte at a time.\n  for (byte = 0; byte < message_bytes; ++byte) {\n    // Bring the next byte into the remainder.\n    remainder ^= (REFLECT_DATA(message[byte]) << (CRC_WIDTH - 8));\n    // Perform modulo-2 division, a byte at a time.\n    for (bit = 8; bit > 0; --bit) {\n      // Try to divide the current data bit.\n      if (remainder & TOPBIT) { // The top bit is 1 or not.\n        // '<<' for normal plynomial, '>>' for reversed polynomial.\n        remainder = (remainder << 1) ^ POLYNOMIAL;\n      } else {\n        remainder = (remainder << 1);\n      }\n    }\n  }\n  // The final remainder is the CRC result.\n  return (REFLECT_REMAINDER(remainder) ^ FINAL_XOR_VALUE);\n} // CheckCrcSlowly().\n#endif  // #if ENABLE_BIT_CRC\n\n#if ENABLE_BYTE_CRC  // 是否调用: CheckCrcFaster()\n// 可以利用InitCrc()函数将计算出的crc表存储在这里，\n// 便于调用CheckCrcFaster()函数时直接查询，不必每次重复计算。\nstatic Crc g_crc_table[256];\n\n/*********************************************************************\n * Function: InitCrc()\n * Description: Populate the partial CRC lookup table.\n * Notes: This function must be rerun any time the CRC standard\n *        is changed. If desired, it can be run \"offline\" and\n *        the table results stored in an embedded system's ROM.\n * Returns: None defined.\n *********************************************************************/\nvoid InitCrc(void) {\n  Crc remainder = 0;\n  unsigned char bit = 0;\n  unsigned int dividend = 0;\n  \n  memset(g_crc_table, 0, sizeof(g_crc_table));\n  // Compute the remainder of each possible dividend.\n  for (dividend = 0; dividend < 256; ++dividend) {\n    // Start with the dividend followed by zeros.\n    remainder = dividend << (CRC_WIDTH - 8);\n      // Perform modulo-2 division, a byte at a time.\n    for (bit = 8; bit > 0; --bit) {\n      // Try to divide the current data bit.\n      if (remainder & TOPBIT) { // The top bit is 1 or not.\n        // '<<' for normal plynomial, '>>' for reversed polynomial.\n        remainder = (remainder << 1) ^ POLYNOMIAL;\n      } else {\n        remainder = (remainder << 1);\n      }\n    }\n    g_crc_table[dividend] = remainder;\n  }\n} // InitCrc().\n\n/*********************************************************************\n * Function: CheckCrcFaster().\n * Description: Compute the CRC of a given message.\n * Notes: InitCrc() must be called first.\n * Returns: The CRC of the message.\n *********************************************************************/\nCrc CheckCrcFaster(const unsigned char message[], unsigned int message_bytes) {	                   	\n  Crc remainder = INITIAL_REMAINDER;\n  unsigned char data0 = 0;\n  unsigned int byte = 0;\n  \n  InitCrc();	// Populate the partial CRC lookup table.\n  // Divide the message by the polynomila, a byte at a time.\n  for (byte = 0; byte < message_bytes; ++byte) {\n    data0 = (REFLECT_DATA(message[byte]) ^ (remainder >> (CRC_WIDTH - 8)));\n    remainder = g_crc_table[data0] ^ (remainder << 8);\n  }\n  // The final remainder is the CRC result.\n  return (REFLECT_REMAINDER(remainder) ^ FINAL_XOR_VALUE);\n} // CheckCrcFaster().\n#endif  // #if ENABLE_BYTE_CRC \n",
+			"file": "src/crc.c",
+			"file_size": 6404,
+			"file_write_time": 130728717665638254,
+			"settings":
+			{
+				"buffer_size": 6195,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "printf",
+		"selected_items":
+		[
+			[
+				"printf",
+				"Snippet: fprintf …"
+			],
+			[
+				"ip",
+				"Snippet: printf …"
+			],
+			[
+				"",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src/main\"",
+			"Running g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src/main\"",
+			"running g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src/main\"",
+			"g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src/main\"",
+			"g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o",
+			"g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\"",
+			"g++",
+			"ser"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/src/mpu6050.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/src/sort.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/src/crc.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/include/delay.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/src/delay.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/src/stc12_eeprom.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/include/stc12_eeprom.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/src/uart.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/include/crc.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/src/display.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/include/display.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/src/filter.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/include/filter.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/include/i2c.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/src/i2c.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/include/mpu6050.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/include/uart.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/C51/include/sort.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/display.h~",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/crc.c~",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/mpu6050.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/i2c.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/i2c.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/filter.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/filter.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/delay.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/display.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/display.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/delay.c",
+		"/D/Users/sheldencn/Downloads/serial_port_async/src/serial_port.c",
+		"/D/Users/sheldencn/Downloads/serial_port_async/src/serial_dlg.c",
+		"/D/Users/sheldencn/Downloads/serial_port_async/src/serial.c",
+		"/D/Users/sheldencn/Downloads/serial_port_async/src/display.c",
+		"/D/Users/sheldencn/Downloads/serial_port_async/src/debug.c",
+		"/D/Users/sheldencn/Downloads/serial_port_async/include/serial_dlg.h",
+		"/D/Users/sheldencn/Downloads/serial_port_async/include/serial.h",
+		"/D/Users/sheldencn/Downloads/serial_port_async/include/main.h",
+		"/D/Users/sheldencn/Downloads/serial_port_async/include/display.h",
+		"/D/Users/sheldencn/Downloads/serial_port_async/include/debug.h",
+		"/D/Users/sheldencn/Downloads/serial_port_async/src/main.c",
+		"/D/Users/Sheldencn/Downloads/serial_port_async/src/main.c~",
+		"/D/Users/Sheldencn/Downloads/serial_port_async/src/debug.c~",
+		"/D/Users/Sheldencn/Downloads/serial_port_async/src/serial.c",
+		"/D/Users/Sheldencn/Downloads/serial_port_async/include/serial.h",
+		"/D/Users/Sheldencn/Downloads/serial_port_async/include/serial_dlg.h",
+		"/D/Users/Sheldencn/Downloads/serial_port_async/src/serial_port.c",
+		"/D/Users/Sheldencn/Downloads/serial_port_async/src/serial_dlg.c",
+		"/D/Users/Sheldencn/Downloads/serial_port_async/src/display.c",
+		"/D/Users/Sheldencn/Downloads/serial_port_async/src/debug.c",
+		"/D/Users/Sheldencn/Downloads/serial_port_async/include/display.h",
+		"/D/Users/Sheldencn/Downloads/serial_port_async/include/debug.h",
+		"/D/Users/Sheldencn/Downloads/serial_port_async/include/main.h",
+		"/D/Users/sheldencn/Downloads/serial_port_async/src/debug.c~",
+		"/D/Users/sheldencn/Downloads/serial_port_async/include/main.h~",
+		"/C/Users/sheldencn/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/sheldencn/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/sheldencn/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/sort/sort_test.c",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/iir.c",
+		"/D/Users/sheldencn/Documents/Project/LPC/TJV2_20150306/EXT_SENSOR/SensorBeta.c",
+		"/D/Users/sheldencn/Documents/Project/LPC/TJV2_20150306/USER_CODE/main.c",
+		"/D/Users/sheldencn/Documents/Project/LPC/TJV2_20150306/SensorBeta.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/C51/12V2_elevator_all_sensors_20150323/crane.c",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/uart.c",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/i2c.h",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/i2c.c",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/filter.h",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/display.h",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/filter.c",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/display.c",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/delay.h",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/delay.c",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/uart.h",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/kalman.h",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/kalman.c",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/MPU6050.h",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/mpu6050.c",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/src/main.c",
+		"/C/Users/sheldencn/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/mpu6050/mpu6050.sublime-project",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/sort/sort.h",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/sort/sort.c",
+		"/C/Users/sheldencn/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/filter.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/C51/uart/uart_hello.c",
+		"/D/Users/sheldencn/Documents/Visual Studio 2005/Projects/serial_port/src/serial_port.c",
+		"/D/Users/sheldencn/Documents/Visual Studio 2005/Projects/serial_port/src/serial.h",
+		"/D/Users/sheldencn/Documents/Visual Studio 2005/Projects/serial_port/src/serial.c",
+		"/D/Users/sheldencn/Documents/Visual Studio 2005/Projects/serial_port/src/main.h",
+		"/D/Users/sheldencn/Documents/Visual Studio 2005/Projects/serial_port/src/main.c",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/win32_api/sync_serial_port/serial.h",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/win32_api/sync_serial_port/serial.c",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/win32_api/serial_port/main.c",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/win32_api/serial_port/main.h",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/win32_api/serial_port/serial.h",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/win32_api/serial_port/serial.c",
+		"/D/Users/sheldencn/Documents/Project/LPC/TJV2_20150306/EXT_LCD/MMIFunc.h",
+		"/D/Users/sheldencn/Documents/Project/LPC/TJV2_20150306/EXT_LCD/MMIFunc.c",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/src/mpu6050.c",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/src/mpu6050.h",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/src/main.c",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/src/kalman.h",
+		"/D/Users/sheldencn/Documents/Project/To do list/mpu6050/src/kalman.c",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/filter/pid.c",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/filter/pid.h",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/filter/main.c",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/filter/kalman.h",
+		"/D/Users/sheldencn/Documents/Project/C-Free/Projects/filter/kalman.c",
+		"/D/Users/sheldencn/Documents/Project/To do list/MPU6050_20150228/main.c",
+		"/D/Users/sheldencn/Documents/Project/To do list/MPU6050_20150228/display.h",
+		"/D/Users/sheldencn/Documents/Project/To do list/MPU6050_20150228/display.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/C51/12V2_elevator_all_sensors_20150226/crane.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/C51/12V2_elevator_all_sensors_20150226/crane.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/C51/12V1_elevator_all_sensors_20141226/crane.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/C51/12V1_elevator_all_sensors_20141226/crane.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/C51/12V_crane/12V2_tower_crane_20150226/crane.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/C51/12V_crane/12V2_tower_crane_20150226/crane.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/relay/HARDWARE/watch_dog.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/relay/HARDWARE/watch_dog.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/relay/USER/main.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/relay/USER/main.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/relay/USER/relay.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/relay/USER/relay.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/relay/SYSTEM/usart/usart.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/relay/SYSTEM/usart/usart.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/relay/SYSTEM/usart/485.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/relay/SYSTEM/usart/485.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/relay/HARDWARE/stm_flash.c"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"USE_BYTE_CRC",
+			"USE_BIT_CRC",
+			"index",
+			"nCnt",
+			"pData",
+			"Hex2Char",
+			"str",
+			"HexChar",
+			"选中",
+			"按钮",
+			"接收成功数据字节数",
+			"串口数据发送线程",
+			"ShowError",
+			"recv_size",
+			"sendbyte_buf",
+			"in_size_buf",
+			"dwCommEvent",
+			"fWaitingOnStat",
+			"osStatus",
+			"STATUS_CHECK_TIMEOUT",
+			"ptr_comm.",
+			"word_wrap",
+			"word wrap",
+			"ruler",
+			"recv_buf",
+			"toggle_side_bar",
+			"unsigned",
+			"frame_size",
+			"static",
+			"float",
+			"unsigned",
+			"task0",
+			"stored_index",
+			"InsertionSortFloat",
+			"s_ret_sum",
+			"ret_sum",
+			"R_ANGLE",
+			"BUF_SIZE",
+			"avg_cnt",
+			"q_bias",
+			"Q_GYRO",
+			"R_ANGLE",
+			"C_0",
+			"Q_ANGLE",
+			"ret_result",
+			"s_now_time",
+			"unchanged_times",
+			"now_time",
+			"sensor_data",
+			"sensor_data_struct",
+			"result_gyro",
+			"result_accel",
+			"\"\n",
+			"SepLimit",
+			"test_struct",
+			"PIDControlStruct",
+			"NextPoint",
+			"Flag",
+			"Derivative",
+			"diff_error",
+			"dError",
+			"Error",
+			"LastError",
+			"PrevError",
+			"SumError",
+			"Integral",
+			"Proportion",
+			"SetPoint",
+			"a",
+			"Angle_Final",
+			"k",
+			"n",
+			"m",
+			"PIDCalc",
+			"k",
+			"PP",
+			"Pdot",
+			"K_1",
+			"K_0",
+			"E",
+			"PCt_1",
+			"PCt_0",
+			"Q_bias",
+			"Angle_err",
+			"kalman_struct",
+			"accel",
+			"Gyro",
+			"Accel",
+			"Gyro_Final",
+			"Angle_Final",
+			"Kalman_Struct",
+			"dt",
+			"R_angle",
+			"Q_gyro",
+			"Q_angle",
+			"Kalman_Filter",
+			"Angle_dot",
+			"Angle",
+			"Angle_dot",
+			"Angle",
+			"temp_buf",
+			"Pdot",
+			"Angle_err",
+			"Q_bias",
+			"Angle_err",
+			"Q_bias",
+			"t_1",
+			"t_0",
+			"K_1",
+			"K_0",
+			"E",
+			"PCt_1",
+			"PCt_0",
+			"C_0",
+			"R_angle",
+			"Q_gyro",
+			"Q_angle",
+			"output_buf",
+			"dt",
+			"Q_angle",
+			"Q_bias",
+			"gyro_m",
+			"angle_m",
+			"p",
+			"ENABLE_EXTENT",
+			"g_data_state",
+			"EXTENT_DRIVE_RATIO",
+			"g_verified_result"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ENABLE_BYTE_CRC",
+			"ENABLE_BIT_CRC",
+			"channel_index",
+			"buf_cnt",
+			"unfiltered_buf",
+			"unfiltered_data",
+			"Char2Hex",
+			"res",
+			"Char2Hex",
+			"用户选中",
+			"按键",
+			"recv_bytes",
+			"recvbytes_buf",
+			"comm_event_mask",
+			"waiting_on_status",
+			"g_comm.ov",
+			"status_check_timeout",
+			"ptr_comm->",
+			"ret_index",
+			"InsertSortFloat",
+			"ret_sum",
+			"s_ret_sum",
+			"AVG_BUF_SIZE",
+			"s_avg_cnt",
+			"s_ret_result",
+			"s_old_time",
+			"s_unchanged_times",
+			"s_now_time",
+			"sensor_data_struct",
+			"sensor_data",
+			"gyro_temp",
+			"accel_angle_temp",
+			"sep_limit",
+			"kalman_struct",
+			"pid_struct",
+			"next_point",
+			"flag",
+			"DERIVATIVE",
+			"dif_error",
+			"diff_error",
+			"error",
+			"last_error",
+			"prev_error",
+			"sum_error",
+			"integral",
+			"proportion",
+			"set_point",
+			"i",
+			"angle_final",
+			"test_struct",
+			"gyro",
+			"accel_angle",
+			"CalcPID",
+			"test_struct",
+			"pp",
+			"pdot",
+			"k_1",
+			"k_0",
+			"e",
+			"pct_01",
+			"pct_0",
+			"q_bias",
+			"angle_err",
+			"kalman_struct_ptr",
+			"accel_angle",
+			"gyro",
+			"accel",
+			"gyro_final",
+			"angle_final",
+			"kalman_struct",
+			"SAMPLING_TIME",
+			"R_ANGLE",
+			"Q_GYRO",
+			"Q_ANGLE",
+			"KalmanFilter",
+			"s_angle_dot",
+			"s_angle",
+			"s_temp_buf",
+			"s_pdot_buf",
+			"s_angle_err",
+			"s_q_bias",
+			"s_t_1",
+			"s_t_0",
+			"s_k_1",
+			"s_k_0",
+			"s_e",
+			"s_pct_1",
+			"s_pct_0",
+			"R_ANGLE",
+			"Q_GYRO",
+			"Q_ANGLE",
+			"temp_buf",
+			"SAMPLING_TIME",
+			"gyro",
+			"accel_angle",
+			"output_buf",
+			"verified_result",
+			"send_data_buffer",
+			"g_readout_relay_status_buf",
+			"readout_relay_status_buf",
+			"s_readout_relay_status_buf",
+			"dat",
+			"CheckCrc",
+			"crc_code",
+			"relay_status",
+			"kRelayCorrectTable",
+			"kRelayErrorTable",
+			"g_relay_correct_table",
+			"g_relay_error_table",
+			"to_save_relay_status_buf",
+			"RELAY_MODE_SAVE_ADDR",
+			"readout_relay_mode_buf",
+			"to_save_relay_buf",
+			"readout_relay_buf",
+			"input_to_save_relay_buf",
+			"s_to_save_relay_buf",
+			"s_saved_relay_buf",
+			"input_len",
+			"input_buf",
+			"input_addr",
+			"write_buf",
+			"p_write_buf",
+			"g_never_init_gpio_flag",
+			"recv_cmd",
+			"unsigned char",
+			"g_usart_rx_buf",
+			"g_uart_cnt",
+			"g_usart_rx_buf"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 11,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/delay.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								397,
+								397
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "include/display.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/display.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								506,
+								506
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/filter.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								409
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "include/filter.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/i2c.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4453,
+								4453
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1620.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/mpu6050.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								683,
+								683
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2187.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "include/i2c.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								450,
+								450
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 729.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "include/mpu6050.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "include/sort.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "include/stc12_eeprom.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								551,
+								551
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/crc.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								622,
+								622
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 243.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 184.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "library_Jacob.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Users\\sheldencn\\Documents\\Project\\To do list\\mpu6050\\mpu6050\\mpu6050.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

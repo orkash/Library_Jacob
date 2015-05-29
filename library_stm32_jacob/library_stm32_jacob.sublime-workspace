@@ -1,0 +1,1356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"send",
+				"send_bytes"
+			],
+			[
+				"US",
+				"USART1"
+			],
+			[
+				"SD_R",
+				"SD_ReadDisk"
+			],
+			[
+				"SD_Get",
+				"SD_GetCSD"
+			],
+			[
+				"gpio_in",
+				"GPIO_InitStructure"
+			],
+			[
+				"SDHC",
+				"SDHC_H_"
+			],
+			[
+				"sp1",
+				"SPI1"
+			],
+			[
+				"spi_i2s_f",
+				"SPI_I2S_FLAG_TXE"
+			],
+			[
+				"SPI_i2s",
+				"SPI_I2S_GetFlagStatus"
+			],
+			[
+				"su",
+				"successfully"
+			],
+			[
+				"distan",
+				"distance1"
+			],
+			[
+				"dist",
+				"distance0"
+			],
+			[
+				"dista",
+				"distance1"
+			],
+			[
+				"save",
+				"save_buf"
+			],
+			[
+				"fac",
+				"fac_union"
+			],
+			[
+				"ca",
+				"calibrated_flag"
+			],
+			[
+				"read",
+				"read_buf"
+			],
+			[
+				"LCD_C",
+				"LCD_Clear"
+			],
+			[
+				"TOUCH_Re",
+				"TOUCH_ReadCalibrateData"
+			],
+			[
+				"TOUCH_C",
+				"TOUCH_Calibrate"
+			],
+			[
+				"pos",
+				"pos_temp"
+			],
+			[
+				"LCD_",
+				"LCD_WIDTH"
+			],
+			[
+				"po",
+				"point_index"
+			],
+			[
+				"dis",
+				"distance1"
+			],
+			[
+				"TOUCH_Po",
+				"TOUCH_DrawCalibratePoint"
+			],
+			[
+				"TOUCHP",
+				"TOUCH_PRESS_DOWN"
+			],
+			[
+				"st",
+				"start_line"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"TOUCHreadxand",
+				"TOUCH_ReadXandY"
+			],
+			[
+				"TOUHC_R",
+				"TOUCH_ReadXorY"
+			],
+			[
+				"De",
+				"DelayUs"
+			],
+			[
+				"start",
+				"start_y"
+			],
+			[
+				"LCD_W",
+				"LCD_WriteCmd"
+			],
+			[
+				"LCD_D",
+				"LCD_DrawPoint"
+			],
+			[
+				"LCD_Wr",
+				"LCD_WriteCmd"
+			],
+			[
+				"Write",
+				"ILI9325_Write"
+			],
+			[
+				"tmp",
+				"tmp_char"
+			],
+			[
+				"write",
+				"ILI9325_Write"
+			],
+			[
+				"on",
+				"on_or_off"
+			],
+			[
+				"ILI9325_Wr",
+				"ILI9325_WriteRegister"
+			],
+			[
+				"in",
+				"inc	#include \"…\""
+			],
+			[
+				"timer",
+				"TIMER_H_"
+			],
+			[
+				"win",
+				"WINDOW_WATCH_DOG_H_"
+			],
+			[
+				"wat",
+				"WATCH_DOG_H_"
+			],
+			[
+				"gpio",
+				"GPIO_ReadInputDataBit"
+			],
+			[
+				"k",
+				"KEY_H_"
+			],
+			[
+				"defin",
+				"defined"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"use_",
+				"USE_BYTE_CRC"
+			],
+			[
+				"res",
+				"res_len"
+			],
+			[
+				"char",
+				"Char2Hex"
+			],
+			[
+				"hwnd",
+				"hwnd_com"
+			],
+			[
+				"mb_",
+				"MB_ICONERROR"
+			],
+			[
+				"fa",
+				"FALSE"
+			],
+			[
+				"pivo",
+				"pivot_index"
+			],
+			[
+				"piv",
+				"pivot_value"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"ac",
+				"accel"
+			],
+			[
+				"data",
+				"data_temp"
+			],
+			[
+				"s_da",
+				"s_data_buf"
+			],
+			[
+				"un",
+				"unfiltered_data"
+			],
+			[
+				"sens",
+				"sensor_data_judge_time"
+			],
+			[
+				"sen",
+				"sensor_data_is_changing_flag"
+			],
+			[
+				"UA",
+				"UART_SendByte"
+			],
+			[
+				"disp",
+				"Display10BitsData"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"display",
+				"display_buf"
+			],
+			[
+				"ena",
+				"ENABLE_HEIGHT"
+			],
+			[
+				"ch_we",
+				"CH_WIND_SPEED"
+			],
+			[
+				"ch_",
+				"CH_EXTENT"
+			],
+			[
+				"que",
+				"queue_buffer"
+			],
+			[
+				"df",
+				"define"
+			],
+			[
+				"recv",
+				"recv_data"
+			],
+			[
+				"Send",
+				"SendDataToPC"
+			],
+			[
+				"sendu",
+				"SendUsartString"
+			],
+			[
+				"fram",
+				"frame_size"
+			],
+			[
+				"fo",
+				"for_cnt"
+			],
+			[
+				"qget",
+				"QGetDataSize"
+			],
+			[
+				"g_",
+				"g_rcv_que"
+			],
+			[
+				"qge",
+				"QGetAt"
+			],
+			[
+				"test",
+				"test_flag"
+			],
+			[
+				"tset",
+				"test_flag"
+			],
+			[
+				"relay",
+				"relay_status"
+			],
+			[
+				"rela",
+				"relay_status"
+			],
+			[
+				"relya",
+				"relay_num"
+			],
+			[
+				"relay_",
+				"relay_num"
+			],
+			[
+				"kre",
+				"kRelayCorrectTable"
+			],
+			[
+				"relay_stat",
+				"relay_status_buf"
+			],
+			[
+				"RE",
+				"RELAY_STATUS_SAVE_ADDR"
+			],
+			[
+				"to_save_",
+				"to_save_relay_status_buf"
+			],
+			[
+				"to_",
+				"to_save_relay_mode_buf"
+			],
+			[
+				"relay_mo",
+				"relay_mode"
+			],
+			[
+				"stmfl",
+				"StmFlash_ReadBuffer"
+			],
+			[
+				"relay_mode",
+				"relay_mode_buf"
+			],
+			[
+				"readout_",
+				"readout_relay_status_buf"
+			],
+			[
+				"inp",
+				"input_relay_num：对应继电器编号"
+			],
+			[
+				"s_bu",
+				"s_saved_relay_buf"
+			],
+			[
+				"recv_",
+				"recv_cmd"
+			],
+			[
+				"fra",
+				"FRAME_HEADER0"
+			],
+			[
+				"main",
+				"MAIN_H_"
+			],
+			[
+				"wri",
+				"write_data_size"
+			],
+			[
+				"sector",
+				"sector_remain_size"
+			],
+			[
+				"inpu",
+				"input_buf"
+			],
+			[
+				"w",
+				"write_addr"
+			],
+			[
+				"wi",
+				"write_buf"
+			],
+			[
+				"secto",
+				"sector_remain_size"
+			],
+			[
+				"stmflash_bu",
+				"g_stmflash_buf"
+			],
+			[
+				"g_n",
+				"g_never_init_gpio_flag_table"
+			],
+			[
+				"rel",
+				"relay_num"
+			],
+			[
+				"cmd",
+				"cmd_write"
+			],
+			[
+				"ch",
+				"CH_RELAY"
+			],
+			[
+				"cnt",
+				"for_cnt"
+			],
+			[
+				"QGet",
+				"QGetDataSize"
+			],
+			[
+				"far",
+				"FRAME_HEADER0"
+			],
+			[
+				"ver",
+				"verified_result"
+			],
+			[
+				"D",
+				"define"
+			],
+			[
+				"g_r",
+				"g_rcv_que"
+			],
+			[
+				"fnt",
+				"for_cnt"
+			],
+			[
+				"g_u",
+				"g_uart_cnt"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"gpio_pin",
+				"GPIO_Pin_0"
+			],
+			[
+				"GPIO",
+				"GPIOB"
+			],
+			[
+				"re",
+				"relay_num"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"usart_rec",
+				"USART_REC_LEN-1"
+			],
+			[
+				"us",
+				"usart_temp"
+			],
+			[
+				"nvicpri",
+				"NVIC_IRQChannelPreemptionPriority"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "/* \n* Copyright (c) 2015, Jacob Peng.\n* All rights reserved. \n* \n* 文件名称: usart.h  \n* 文件标识: 见配置管理计划书\n* 摘    要: stm32, 串口配置\n* 函    数: USART1_Init() - 初始化串口1\n*           SendUsartByte() - 串口发送字节数据\n*           SendUsartString() - 串口发送字符串数据\n*           USART1_SendByte() - 串口1发送单字节数据\n*           USART1_SendString() - 串口1发送字符串数据\n* \n* 当前版本: E0.0.1\n* 作    者: Jacob Peng\n* 完成日期: 2015年4月15日\n* 更改内容: E0.0.1, 完成了串口1初始化、发送, 2015年4月15日\n* \n* 取代版本: None\n* 原作者  : Unknown\n* 完成日期: Unknown\n*/\n#include <stm32f10x.h>\n\n#ifndef STM32_USART_H_\n#define STM32_USART_H_ \n\n#ifndef TRUE\n#define TRUE 1\n#define FALSE 0\n#endif\n\n#define EN_USART1_RX TRUE // 是否使能串口中断接收\n// #define EN_USART2_RX TRUE\n// #define EN_USART3_RX TRUE\n\n#define USART_RXD_LEN 64 // 定义最大接收字节数128\n\n/*----- High layer function -----*/\n// 初始化串口\nvoid USART1_Init(u32 baud);\n// 串口1发送单字节数据\nvoid USART1_SendByte(unsigned char dat);\n// 串口1发送字符串数据\nvoid USART1_SendString(const unsigned char buf[], unsigned short send_bytes);\n\n/*----- Medium layer function -----*/\n// 串口发送单字节数据\nvoid SendUsartByte(USART_TypeDef* USARTx, unsigned char dat);\n// 串口发送字符串数据\nvoid SendUsartString(USART_TypeDef* USARTx, const unsigned char buf[], unsigned short buf_cnt);\n\n/*----- Low layer function -----*/\n\n#endif  // #ifndef STM32_USART_H_\n",
+			"file": "include/usart.h",
+			"file_size": 1475,
+			"file_write_time": 130766736947355956,
+			"settings":
+			{
+				"buffer_size": 1254,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"file": "include/key.h",
+			"settings":
+			{
+				"buffer_size": 1132,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "/* \n* Copyright (c) 2015, Jacob Peng.\n* All rights reserved. \n* \n* 文件名称: key.c\n* 文件标识: 见配置管理计划书\n* 摘    要: 按键相应操作\n* 函    数: KEY_Init() - 初始化按键对应IO口\n*           KEY_Scan() - 扫描按键, 通过延时消抖\n*           KEY_Drive() - 驱动按键\n*           KEY_Scan2() - 按键扫描方式2, 通过判断状态标志消抖\n*           KEY_Drive2() - 驱动按键方式2\n* \n* 当前版本: A0.0.1\n* 作    者: Jacob Peng\n* 完成日期: 2015年4月15日\n* 更改内容: A0.0.1, 完成了扫描按键、驱动按键函数, 2015年4月16日\n* \n* 取代版本: None\n* 原作者  : Unknown\n* 完成日期: Unknown\n*/\n#include \"../include/key.h\"\n\n#include \"../include/delay.h\"\n#include \"../include/sys.h\"\n#include \"../include/led.h\"\n#include \"../include/usart.h\"\n\n/************************************************ \n* 函  数: KEY_Init(void)\n* 功  能: 初始化按键对应IO口\n*\n* 参  数: 无\n*\n* 返回值: 无\n*************************************************/\nvoid KEY_Init(void)\n{\n  GPIO_InitTypeDef GPIO_InitStructure;\n  \n  // 使能IO口时钟\n  RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOA | RCC_APB2Periph_GPIOC, ENABLE);\n  \n  GPIO_InitStructure.GPIO_Pin =  GPIO_Pin_0 | GPIO_Pin_1 | GPIO_Pin_2;\n  GPIO_InitStructure.GPIO_Mode = GPIO_Mode_IPU; // 上拉输入\n  GPIO_Init(GPIOA, &GPIO_InitStructure);\n  \n  GPIO_InitStructure.GPIO_Pin = GPIO_Pin_13;\n  GPIO_InitStructure.GPIO_Mode = GPIO_Mode_IPU; // 上拉输入\n  GPIO_Init(GPIOC, &GPIO_InitStructure);\n} // KEY_Init()\n\n/************************************************ \n* 函  数: KEY_Scan(unsigned char)\n* 功  能: 扫描按键, 通过延时消抖\n*\n* 参  数: mode - 是否支持连续按键按下: 1, 支持; 0, 不支持\n*\n* 返回值: 0, 没有按键按下; 1~4, 对应被按下的按键\n*************************************************/\nunsigned char KEY_Scan(unsigned char mode)\n{\n  static unsigned char s_key_up = 1;  // 按键松开标志\n  \n  if (1 == mode) s_key_up = 1; // 支持连续按键\n  if (s_key_up && (0 == KEY1 || 0 == KEY2 || 0 == KEY3 || 0 == KEY4))\n  {\n    DelayMs(2); // 消抖动\n    s_key_up = 0; // 按键按下\n    if (0 == KEY1) return 1;\n    else if (0 == KEY2) return 2;\n    else if (0 == KEY3) return 3;\n    else if (0 == KEY4) return 4;\n  } else if (1 == KEY1 && 1 == KEY2 && 1 == KEY3 && 1 == KEY4) {\n    s_key_up = 1;\n  } // else if\n  \n  return 0;\n} // KEY_Scan()\n\n/************************************************ \n* 函  数: KEY_Drive(void)\n* 功  能: 驱动按键\n*\n* 参  数: 无\n*\n* 返回值: 无\n*************************************************/\nvoid KEY_Drive(void)\n{\n  unsigned char key_status = 0;\n  \n  key_status = KEY_Scan(0);  // 不支持连续按下\n  switch (key_status)\n  {\n    case 1: LED1 = !LED1; SendUsartByte(USART1, 0x01); break;\n    case 2: LED2 = !LED2; SendUsartByte(USART1, 0x02); break;\n    case 3: LED3 = !LED3; SendUsartByte(USART1, 0x03); break;\n    case 4: LED4 = !LED4; SendUsartByte(USART1, 0x04); break;\n    default: break; // 没有按键按下\n  } // switch\n} // KEY_Drive()\n\n// 按键是否弹起标志\nunsigned char g_key_up_buf[4] = {1, 1, 1, 1};\n\n/************************************************ \n* 函  数: KEY_Scan2(void)\n* 功  能: 扫描按键方式2, 通过判断状态标志消抖, 在中断中扫描效果很好\n*\n* 参  数: 无\n*\n* 返回值: 无\n*************************************************/\nvoid KEY_Scan2(void)\n{\n  unsigned int i = 0;\n  static unsigned char s_key_up_buf[4] = {0xFF, 0xFF, 0xFF, 0xFF};\n\n  s_key_up_buf[0] = (s_key_up_buf[0] << 1) | KEY1;\n  s_key_up_buf[1] = (s_key_up_buf[1] << 1) | KEY2;\n  s_key_up_buf[2] = (s_key_up_buf[2] << 1) | KEY3;\n  s_key_up_buf[3] = (s_key_up_buf[3] << 1) | KEY4;\n  for (i = 0; i < 4; ++i)\n  {\n    // 按键按下\n    if (0x00 == (s_key_up_buf[i] & 0x0F))\n    {\n      g_key_up_buf[i] = 0;\n    } else if (0xFF == (s_key_up_buf[i] | 0xF0)){\n      g_key_up_buf[i] = 1;\n    } // else\n  } // for \n} // KEY_Scan2()\n\n/************************************************ \n* 函  数: KEY_Drive(void)\n* 功  能: 驱动按键方式2, 在中断中扫描效果很好\n*\n* 参  数: 无\n*\n* 返回值: 无\n*************************************************/\nvoid KEY_Drive2(void)\n{\n  unsigned int i = 0;\n  static unsigned char s_key_up_backup[4] = {1, 1, 1, 1};\n\n  //KEY_Scan2();  // 在中断中扫描效果很好\n  for (i = 0; i < 4; ++i)\n  {\n    if (g_key_up_buf[i] != s_key_up_backup[i])\n    {\n      if (0 == s_key_up_backup[i])\n      {\n        switch (i + 1)\n        {\n          case 1: LED1 = !LED1; SendUsartByte(USART1, 0x01); break;\n          case 2: LED2 = !LED2; SendUsartByte(USART1, 0x02); break;\n          case 3: LED3 = !LED3; SendUsartByte(USART1, 0x03); break;\n          case 4: LED4 = !LED4; SendUsartByte(USART1, 0x04); break;\n          default: break; // 没有按键按下\n        } // switch\n      } // if\n      s_key_up_backup[i] = g_key_up_buf[i];\n    } // if\n  } // for\n} // KEY_Drive2()\n",
+			"file": "src/key.c",
+			"file_size": 4807,
+			"file_write_time": 130767468108938287,
+			"settings":
+			{
+				"buffer_size": 4304,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"file": "src/iwdg.c",
+			"settings":
+			{
+				"buffer_size": 1352,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/led.c",
+			"settings":
+			{
+				"buffer_size": 1034,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/led.h",
+			"settings":
+			{
+				"buffer_size": 661,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "printf",
+		"selected_items":
+		[
+			[
+				"printf",
+				"Snippet: fprintf …"
+			],
+			[
+				"ip",
+				"Snippet: printf …"
+			],
+			[
+				"",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src/main\"",
+			"Running g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src/main\"",
+			"running g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src/main\"",
+			"g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src/main\"",
+			"g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o",
+			"g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\"",
+			"g++",
+			"ser"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src"
+	],
+	"file_history":
+	[
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/dma.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/i2c.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/ili9325.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/sdhc.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/stm32_flash.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/sys.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/timer.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/timer.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/stm32_flash.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/ili9325.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/sys.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/sdhc.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/ad.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/ad.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/delay.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/dma.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/delay.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/spi_hardware.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/spi_hardware.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/wwdg.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/exti.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/wwdg.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/standby.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/standby.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/xpt2046.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/xpt2046.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/i2c.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/wakeup.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/wakeup.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/exti.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/iwdg.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/iwdg.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/wwdg.bak",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/key.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/key.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/independent_watch_dog.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/independent_watch_dog.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/window_watch_dog.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/usart.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/led.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/led.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/usart.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/spi.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/spi.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/font.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/stm_ad.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/stm_ad.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/24cxx.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/src/24cxx.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/stm_flash.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/test/library/library_stm32_jacob/include/ili9325_font.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/stm32_sd/user/touch.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/stm32_sd/user/timer.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/stm32_sd/user/main.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/stm32_sd/user/sdhc.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/stm32_sd/user/spi.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/stm32_sd/user/spi.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/stm32_sd/user/ili9325.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/stm32_sd/user/usart.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/stm32_sd/user/usart.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/stm32_sd/user/ili9325_font.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/stm32_sd/user/sdhc.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/stm32_sd/JLinkLog.txt",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/ili9325.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/ili9325.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/touch.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/touch.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/main.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/24cxx.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/ili9325.bak",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/key.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/ili9325_font.h",
+		"/C/Users/sheldencn/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/sys.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/usart.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/font.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/led.c",
+		"/C/Users/sheldencn/AppData/Roaming/Sublime Text 3/Packages/User/ConvertToUTF8.sublime-settings",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/lcd.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/lcd.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/led.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/i2c.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/i2c.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/24cxx.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/LCD.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/touch.bak",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/i2c.bak",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/wakeup.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/wakeup.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/delay.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/watch_dog.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/window_watch_dog.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/timer.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/timer.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/window_watch_dog.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/watch_dog.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/delay.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/wackup.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/wackup.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/rtc.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/rtc.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/delay2.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/delay2.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/stm_flash.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/stm_ad.c",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/key.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/stm_flash.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/usart.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/stm_ad.h",
+		"/D/Users/sheldencn/Documents/Project/Keil/STM32/uart/user/delay.bak",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/sort.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/uart.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/mpu6050.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/i2c.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/i2c.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/filter.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/filter.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/display.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/display.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/crc.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/uart.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/stc12_eeprom.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/stc12_eeprom.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/delay.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/include/delay.h",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/crc.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/sort.c",
+		"/D/Users/sheldencn/Documents/Project/Library_Jacob/src/mpu6050.c"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"cidTable",
+			"sectorBuffer.dat",
+			"SD_RecvData",
+			"SD_WaitReady",
+			"SD_SPI_ReadWriteCmd",
+			"使用SPI读取",
+			"WAKEUP",
+			"InitWakeup",
+			"CheckWakeup",
+			"Sys_Enter_Standby",
+			"MYEXTI_Init",
+			"g_wwdg_cnt",
+			"input_len",
+			"input_buf",
+			"input_addr",
+			"unsigned char",
+			"unsigned short",
+			"unsigned int",
+			"ENABLE_STM32_FLASH",
+			"input_len",
+			"input_buf",
+			"input_addr",
+			"input_len",
+			"input_buf",
+			"input_addr",
+			"input_len",
+			"unsigned short",
+			"unsigned int",
+			"FLASH_ProgramHalfWord",
+			"通过延时消抖",
+			"DriveKey2",
+			"ScanKey2",
+			"DriveKey",
+			"ScanKey",
+			"DELAY_Init",
+			"Read_ADC",
+			"InitDelay",
+			"InitKey",
+			"data_bit_size",
+			"g_DMA1_bit_len",
+			"需要低速",
+			"SD_GetSectorCount",
+			"SD_GetCSD",
+			"SD_RecvData",
+			"SD_WaitReady",
+			"SD_GetSectorCount",
+			"response",
+			"SD_GetResponse",
+			"dat",
+			"SD_SPI_ReadWriteByte",
+			"g_sd_type",
+			"Sys",
+			"sys",
+			"SPI1_ReadWriteByte",
+			"tx_data",
+			"SD_SPI_ReadWriteByte",
+			"SPI1_ReadWriteByte",
+			"读取ADC1的值",
+			"buf_cnt",
+			"write_size",
+			"read_size",
+			"len",
+			"error_time",
+			"g_SPI_InitStructure",
+			"printf",
+			"SD_DisSelect",
+			"SD_Select",
+			"SD_WaitReady",
+			"capacity",
+			"SD_GetCSD",
+			"SD_CMD0",
+			"ret_value",
+			"SD_GetCSD",
+			"g_sd_type",
+			"cnt",
+			"r1",
+			"sector_num",
+			"cnt",
+			"r1",
+			"g_sd_type",
+			"SD_Type",
+			"g_sd_type",
+			"retry",
+			"r1",
+			"csize",
+			"csd",
+			"Capacity",
+			"0X00",
+			"r1",
+			"arg",
+			"Retry",
+			"t",
+			"SD_WartReady",
+			"x_origin",
+			"TOUCH_SaveCalibrateData",
+			"screen",
+			"distance1_temp",
+			"distance0_temp",
+			"TOUCH_ReadCalibrateData",
+			"distance1",
+			"distance0",
+			"int",
+			"s32",
+			"short",
+			"xoff",
+			"x_origin",
+			"now",
+			"click now",
+			"click",
+			"TOUCH_OUT",
+			"LINE1",
+			"TOUCH_ReadCalibrateData",
+			"LINE1",
+			"TOUCH_ReadXandYTwice",
+			"TOUCH_Scan",
+			"TOUCH_ReadXandYTwice",
+			"touch",
+			"TOUCH_Scan",
+			"TOUCH_DisplayCaliInfo",
+			"TOUCH_ReadXandYTwice",
+			"测试Touch触摸屏",
+			"TOUCH_SaveCalibrateData",
+			"TOUCH_Calibrate",
+			"TOUCH_ReadCalibrateData",
+			"TOUCH_ReadXandY",
+			"CLKT",
+			"RD",
+			"WR"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cid_buf",
+			"SD_ReadBlock",
+			"Standby_Init",
+			"Standby_Check",
+			"Standby_SysEnter",
+			"EXTIMY_Init",
+			"write_len",
+			"write_buf",
+			"write_addr",
+			"u8",
+			"u16",
+			"u32",
+			"write_len",
+			"write_buf",
+			"write_addr",
+			"u16",
+			"u32",
+			"KEY_Drive2",
+			"KEY_Scan2",
+			"KEY_Drive",
+			"KEY_Scan",
+			"InitDelay",
+			"ADC_Read",
+			"DELAY_Init",
+			"KEY_Init",
+			"SD_SPI_ReadWriteCmd",
+			"SPI1_ReadWriteCmd",
+			"error_times",
+			"SPI_InitStructure",
+			"g_sd_type",
+			"retry_times",
+			"distance1",
+			"distance0",
+			"distance1_temp",
+			"distance0_temp",
+			"g_touch",
+			"LCD_TEXT_COLOR",
+			"LCD_BACK_COLOR",
+			"LCD_ReadRegister",
+			"ILI9325_ReadData",
+			"ILI9325_WriteData",
+			"ILI9325_WriteCmd",
+			"LCD_WriteRegister",
+			"y_center",
+			"x_center",
+			"LCD_SetDisplayWindow",
+			"column",
+			"row",
+			"y_err",
+			"x_err",
+			"i",
+			"y_dir",
+			"x_dir",
+			"direction",
+			"y_incremt",
+			"x_incremt",
+			"LCD_SetWindowSize",
+			"y_old",
+			"LCD_WIDTH",
+			"ch",
+			"ascii_temp",
+			"LCD_WriteCmd",
+			"LCD_DrawPoint",
+			"LCD_HEIGHT",
+			"LCD_WIDTH",
+			"device_id",
+			"ILI9325_WriteRegIndex",
+			"LCD_BGR2RGB",
+			"LCD_Test",
+			"LCD_DisplayChar",
+			"LCD_DrawBMP",
+			"LCD_SetPointColor",
+			"LCD_ReadPointColor",
+			"LCD_Clear",
+			"LCD_SetScanDir",
+			"LCD_SetDisplayDir",
+			"LCD_SetWindows",
+			"LCD_SetCursor",
+			"LCD_Init",
+			"ILI9325_ReadPointColor",
+			"ILI9325_SetScanDir",
+			"ILI9325_SetDisplayDir",
+			"reg_value",
+			"g_lcd.id",
+			"ILI9325_Read",
+			"ILI9325_Write",
+			"LCD_DB8_15_RCC",
+			"LCD_DB0_7_RCC",
+			"LCD_RST_RCC",
+			"LCD_RD_RCC",
+			"LCD_WR_RCC",
+			"LCD_RS_RCC",
+			"LCD_CS_RCC",
+			"LCD_CS_GPIO",
+			"LCD_RST_PIN",
+			"LCD_CS_PIN",
+			"LCD_RD_PIN",
+			"LCD_WR_PIN",
+			"LCD_RS_PIN",
+			"LCD_RST_GPIO",
+			"LCD_RD_GPIO",
+			"LCD_WR_GPIO",
+			"LCD_RS_GPIO",
+			"LCD_CS_GPIO",
+			"LCD_RST_CLR",
+			"LCD_RS_SET",
+			"LCD_RD_CLR",
+			"LCD_RD_SET",
+			"LCD_RS_CLR",
+			"LCD_RS_SET",
+			"LCD_CS_CLR",
+			"LCD_CS_SET",
+			"LCD_WR_CLR",
+			"LCD_WR_SET",
+			"R34",
+			"LCD_DrawRectangle",
+			"LCD_DrawSquare",
+			"LCD_DrawRect",
+			"LCD_DrawCircle",
+			"LCD_DrawLine",
+			"LCD_DisplayStringLine",
+			"LCD_RGB2Color",
+			"LCD",
+			"ILI9325_OpenBacklight",
+			"ILI9325_WriteAddress",
+			"LCD_HEIGHT",
+			"LCD_WIDTH",
+			"b_data"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "include/usart.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								100
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "include/key.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/key.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								449,
+								0
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/iwdg.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/led.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "include/led.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 184.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "library_stm32_jacob.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ili9325.h",
+				"ili9325.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Users\\sheldencn\\Documents\\Project\\To do list\\mpu6050\\mpu6050\\mpu6050.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

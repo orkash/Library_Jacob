@@ -1,0 +1,72 @@
+	        Library_Jacob库函数版本说明 
+=========================================================
+
+编写初衷：
+  做了大半年的C51单片机，与单片机相关接口的驱动均可以封装
+  为一个个单独的库文件，便于以后的重复使用。
+
+文件说明：src文件夹包含具体函数实现, include包含头文件函数
+          以及相关宏定义声明, sample包含相应库函数调用例程。
+          
+总库文件: uart, i2c, delay, stc12_eeprom, filter, display,
+          crc, mpu6050, sort. 总共9个库文件。
+       
+初稿
+========
+当前版本：E0.0.1
+作    者：Jacob Peng
+完成日期：2015年4月7日
+
+库函数: 
+	1. uart.c - C51的uart串口相关函数
+* 函    数: UART_Init() - 串口初始化
+*           UART_SendByte() - 串口发送字节数据
+*           UART_SendString() - 串口发送字符串
+*           UART_Interrupt() - 串口中断
+  2. i2c.c - I2C相关函数
+* 函    数: I2C_Start() - I2C起始信号
+*           I2C_Stop() - I2C起始信号
+*           I2C_SendACK() - I2C发送应答信号
+*           I2C_RecvACK() - I2C接收应答信号
+*           I2C_SendByte() - 向I2C总线发送一个字节数据
+*           I2C_RecvByte() - 从I2C总线接收一个字节数据
+*           I2C_WriteByteToSlave() - 向I2C设备写入一个字节数据
+*           I2C_ReadByteFromSlave() - 从I2C设备读取一个字节数据
+  3. delay.c - C51粗略延时函数的实现
+* 函    数: DelayUs() - us延时
+*           DelayMs() - ms延时
+  4. stc12_eeprom.c - 使用STC12系列片内自带eeprom相关函数
+* 函    数: IdleIap() - Disable ISP/IAP/EEPROM function
+*           ReadByteIap() - Read one byte from ISP/IAP/EEPROM area
+*           ProgramByteIap() - Program one byte to ISP/IAP/EEPROM area
+*           EraseSectorIap() - Erase one sector area
+  5. filter.c - 常用滤波函数
+* 函    数: AvgFilterInt() - int型数据算术平均值滤波
+*           RecurAvgFilterFloat() - float型数据递推平均滤波
+*           RecurAvgFilterInt() - int型数据递推平均滤波
+*           MedianFilterInt() - int型数据中位值滤波，单通道
+*           MedianFilterMultiChannelInt() - int型数据多通道中位值滤波
+*           FirstOrderLagFilter() - 一阶滞后滤波
+  6. display.c - 将数据每一位拆分显示
+* 函    数: ConvertDataTo10Bits() - 将数据拆分为6个10位格式数据，不足补0
+*           Display10BitsData() - 通过串口显示10位数据
+  7. crc.c - 实现了按位与按字节两种crc校验, 包含CRC_8, CRC_8_ATM, CRC_8_CCITT, 
+            CRC_8_Dallas_Maxim, CRC_16_CCITT, CRC_16_IBM, CRC_32_IEEE这7种crc校验,
+            更多可自行添加。
+* 函    数: CheckCrcSlowly() - 按位进行crc校验
+*           CheckCrcFaster() - 按字节进行crc校验
+  8. mpu6050.c - MPU6050三轴陀螺仪相关函数
+* 函    数: MPU6050_Init() - 初始化MPU6050
+*           MPU6050_GetData() - 合成从mpu6050内部寄存器读取到的数据
+*           MPU6050_CalcResult() - 计算实际加速度、角速度、温度结果
+  9. sort.c  - 5种常见排序算法
+* 函    数: SwapFloat() - 交换两个元素, float型
+*           BubbleSortFloat() - 冒泡排序, float型
+*           SelectSortFloat() - 选择排序, float型
+*           InsertSortFloat() - 插入排序, float型
+*           QuickSortFloat() - 快速排序, float型  
+--------	
+存在bugs：
+  1. 未知。
+============
+版本说明结尾

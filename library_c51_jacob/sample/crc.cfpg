@@ -1,0 +1,6 @@
+<Projects version="2.0">
+	<Project active="1">crc.cfp</Project>
+	<File active="1">test_crc.c</File>
+	<File active="0">crc.c</File>
+	<File active="0">crc.h</File>
+</Projects>
